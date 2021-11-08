@@ -1,0 +1,4656 @@
+{
+  "analytics": {
+    "analyticalDashboards": [
+      {
+        "content": {
+          "filterContextRef": {
+            "identifier": {
+              "id": "ff4a8162-3b27-4606-a178-e3a21c533354",
+              "type": "filterContext"
+            }
+          },
+          "layout": {
+            "type": "IDashboardLayout",
+            "sections": [
+              {
+                "type": "IDashboardLayoutSection",
+                "items": [
+                  {
+                    "type": "IDashboardLayoutItem",
+                    "size": {
+                      "xl": {
+                        "gridWidth": 3
+                      }
+                    },
+                    "widget": {
+                      "type": "insight",
+                      "title": "Clothing",
+                      "description": "",
+                      "ignoreDashboardFilters": [
+
+                      ],
+                      "dateDataSet": {
+                        "identifier": {
+                          "id": "date",
+                          "type": "dataset"
+                        }
+                      },
+                      "insight": {
+                        "identifier": {
+                          "id": "7bae3859-6e56-4ea2-9a34-7484ae09c3eb",
+                          "type": "visualizationObject"
+                        }
+                      },
+                      "drills": [
+
+                      ],
+                      "properties": {
+
+                      }
+                    }
+                  },
+                  {
+                    "type": "IDashboardLayoutItem",
+                    "size": {
+                      "xl": {
+                        "gridWidth": 3
+                      }
+                    },
+                    "widget": {
+                      "type": "insight",
+                      "title": "Electronics",
+                      "description": "",
+                      "ignoreDashboardFilters": [
+
+                      ],
+                      "dateDataSet": {
+                        "identifier": {
+                          "id": "date",
+                          "type": "dataset"
+                        }
+                      },
+                      "insight": {
+                        "identifier": {
+                          "id": "76587c65-1990-4652-8020-85c8d67e3ead",
+                          "type": "visualizationObject"
+                        }
+                      },
+                      "drills": [
+
+                      ],
+                      "properties": {
+
+                      }
+                    }
+                  },
+                  {
+                    "type": "IDashboardLayoutItem",
+                    "size": {
+                      "xl": {
+                        "gridWidth": 3
+                      }
+                    },
+                    "widget": {
+                      "type": "insight",
+                      "title": "Home",
+                      "description": "",
+                      "ignoreDashboardFilters": [
+
+                      ],
+                      "dateDataSet": {
+                        "identifier": {
+                          "id": "date",
+                          "type": "dataset"
+                        }
+                      },
+                      "insight": {
+                        "identifier": {
+                          "id": "a2c05ba0-a108-4e2a-96ff-af4611fe99ad",
+                          "type": "visualizationObject"
+                        }
+                      },
+                      "drills": [
+
+                      ],
+                      "properties": {
+
+                      }
+                    }
+                  },
+                  {
+                    "type": "IDashboardLayoutItem",
+                    "size": {
+                      "xl": {
+                        "gridWidth": 3
+                      }
+                    },
+                    "widget": {
+                      "type": "insight",
+                      "title": "Outdoor",
+                      "description": "",
+                      "ignoreDashboardFilters": [
+
+                      ],
+                      "dateDataSet": {
+                        "identifier": {
+                          "id": "date",
+                          "type": "dataset"
+                        }
+                      },
+                      "insight": {
+                        "identifier": {
+                          "id": "115980cf-cf6c-40c2-b580-aa86bc6b14d4",
+                          "type": "visualizationObject"
+                        }
+                      },
+                      "drills": [
+
+                      ],
+                      "properties": {
+
+                      }
+                    }
+                  }
+                ],
+                "header": {
+                  "title": "How my revenue breaks down"
+                }
+              },
+              {
+                "type": "IDashboardLayoutSection",
+                "items": [
+                  {
+                    "type": "IDashboardLayoutItem",
+                    "size": {
+                      "xl": {
+                        "gridWidth": 6
+                      }
+                    },
+                    "widget": {
+                      "type": "insight",
+                      "title": "Product Breakdown",
+                      "description": "",
+                      "ignoreDashboardFilters": [
+
+                      ],
+                      "dateDataSet": {
+                        "identifier": {
+                          "id": "date",
+                          "type": "dataset"
+                        }
+                      },
+                      "insight": {
+                        "identifier": {
+                          "id": "0710bc43-2ec6-4de4-9a3a-53c13863833b",
+                          "type": "visualizationObject"
+                        }
+                      },
+                      "drills": [
+
+                      ],
+                      "properties": {
+
+                      }
+                    }
+                  },
+                  {
+                    "type": "IDashboardLayoutItem",
+                    "size": {
+                      "xl": {
+                        "gridWidth": 6
+                      }
+                    },
+                    "widget": {
+                      "type": "insight",
+                      "title": "Product Saleability",
+                      "description": "",
+                      "ignoreDashboardFilters": [
+
+                      ],
+                      "dateDataSet": {
+                        "identifier": {
+                          "id": "date",
+                          "type": "dataset"
+                        }
+                      },
+                      "insight": {
+                        "identifier": {
+                          "id": "cb4a4732-0c4f-4da8-86ea-ba4f5fc19e0b",
+                          "type": "visualizationObject"
+                        }
+                      },
+                      "drills": [
+
+                      ],
+                      "properties": {
+
+                      }
+                    }
+                  }
+                ],
+                "header": {
+                  "title": "What my portfolio is"
+                }
+              },
+              {
+                "type": "IDashboardLayoutSection",
+                "items": [
+                  {
+                    "type": "IDashboardLayoutItem",
+                    "size": {
+                      "xl": {
+                        "gridWidth": 6
+                      }
+                    },
+                    "widget": {
+                      "type": "insight",
+                      "title": "Revenue per Category Comparison",
+                      "description": "",
+                      "ignoreDashboardFilters": [
+
+                      ],
+                      "dateDataSet": {
+                        "identifier": {
+                          "id": "date",
+                          "type": "dataset"
+                        }
+                      },
+                      "insight": {
+                        "identifier": {
+                          "id": "bc41cbdf-6496-4f53-9741-803f36f0dbdf",
+                          "type": "visualizationObject"
+                        }
+                      },
+                      "drills": [
+
+                      ],
+                      "properties": {
+
+                      }
+                    }
+                  },
+                  {
+                    "type": "IDashboardLayoutItem",
+                    "size": {
+                      "xl": {
+                        "gridWidth": 6
+                      }
+                    },
+                    "widget": {
+                      "type": "insight",
+                      "title": "Product Category Over Time",
+                      "description": "",
+                      "ignoreDashboardFilters": [
+
+                      ],
+                      "dateDataSet": {
+                        "identifier": {
+                          "id": "date",
+                          "type": "dataset"
+                        }
+                      },
+                      "insight": {
+                        "identifier": {
+                          "id": "b48287bf-b2ff-4afc-81c8-09032cfa763f",
+                          "type": "visualizationObject"
+                        }
+                      },
+                      "drills": [
+
+                      ],
+                      "properties": {
+
+                      }
+                    }
+                  },
+                  {
+                    "type": "IDashboardLayoutItem",
+                    "size": {
+                      "xl": {
+                        "gridWidth": 12
+                      }
+                    },
+                    "widget": {
+                      "type": "insight",
+                      "title": "All Products",
+                      "description": "",
+                      "ignoreDashboardFilters": [
+
+                      ],
+                      "dateDataSet": {
+                        "identifier": {
+                          "id": "date",
+                          "type": "dataset"
+                        }
+                      },
+                      "insight": {
+                        "identifier": {
+                          "id": "9bd0b5fb-60d3-4a62-8135-68d70fce4f82",
+                          "type": "visualizationObject"
+                        }
+                      },
+                      "drills": [
+
+                      ],
+                      "properties": {
+
+                      }
+                    }
+                  }
+                ],
+                "header": {
+                  "title": "How my products perform"
+                }
+              }
+            ]
+          },
+          "version": "2"
+        },
+        "description": "",
+        "id": "31a1ef92-2463-4512-a597-205780f23db0",
+        "title": "2. Product Details"
+      },
+      {
+        "content": {
+          "filterContextRef": {
+            "identifier": {
+              "id": "1bc1fede-2bb0-4120-b752-167c60783709",
+              "type": "filterContext"
+            }
+          },
+          "layout": {
+            "type": "IDashboardLayout",
+            "sections": [
+              {
+                "type": "IDashboardLayoutSection",
+                "items": [
+                  {
+                    "type": "IDashboardLayoutItem",
+                    "size": {
+                      "xl": {
+                        "gridWidth": 12
+                      }
+                    },
+                    "widget": {
+                      "type": "insight",
+                      "title": "Campaign Revenue Detail Breakdown",
+                      "description": "",
+                      "ignoreDashboardFilters": [
+
+                      ],
+                      "dateDataSet": {
+                        "identifier": {
+                          "id": "date",
+                          "type": "dataset"
+                        }
+                      },
+                      "insight": {
+                        "identifier": {
+                          "id": "7dde203c-ce43-4d2e-bb47-134de2e52352",
+                          "type": "visualizationObject"
+                        }
+                      },
+                      "drills": [
+
+                      ],
+                      "properties": {
+
+                      }
+                    }
+                  }
+                ],
+                "header": {
+                  "title": "How my campaign revenue breaks down"
+                }
+              },
+              {
+                "type": "IDashboardLayoutSection",
+                "items": [
+                  {
+                    "type": "IDashboardLayoutItem",
+                    "size": {
+                      "xl": {
+                        "gridWidth": 6
+                      }
+                    },
+                    "widget": {
+                      "type": "insight",
+                      "title": "Campaign Spend",
+                      "description": "",
+                      "ignoreDashboardFilters": [
+
+                      ],
+                      "insight": {
+                        "identifier": {
+                          "id": "38e73072-c38c-4d6d-9b8a-106653ffc473",
+                          "type": "visualizationObject"
+                        }
+                      },
+                      "drills": [
+
+                      ],
+                      "properties": {
+
+                      }
+                    }
+                  },
+                  {
+                    "type": "IDashboardLayoutItem",
+                    "size": {
+                      "xl": {
+                        "gridWidth": 6
+                      }
+                    },
+                    "widget": {
+                      "type": "insight",
+                      "title": "Revenue per $ vs Spend by Campaign",
+                      "description": "",
+                      "ignoreDashboardFilters": [
+
+                      ],
+                      "insight": {
+                        "identifier": {
+                          "id": "b8f3c59b-cba1-444d-b1d7-34ad4bbf208a",
+                          "type": "visualizationObject"
+                        }
+                      },
+                      "drills": [
+
+                      ],
+                      "properties": {
+
+                      }
+                    }
+                  }
+                ],
+                "header": {
+                  "title": "How my campaign spend breaks down"
+                }
+              },
+              {
+                "type": "IDashboardLayoutSection",
+                "items": [
+                  {
+                    "type": "IDashboardLayoutItem",
+                    "size": {
+                      "xl": {
+                        "gridWidth": 6
+                      }
+                    },
+                    "widget": {
+                      "type": "insight",
+                      "title": "Campaign Budget",
+                      "description": "",
+                      "ignoreDashboardFilters": [
+
+                      ],
+                      "insight": {
+                        "identifier": {
+                          "id": "6b7bc87b-4e65-4297-a457-ea6bbe59592d",
+                          "type": "visualizationObject"
+                        }
+                      },
+                      "drills": [
+
+                      ],
+                      "properties": {
+
+                      }
+                    }
+                  },
+                  {
+                    "type": "IDashboardLayoutItem",
+                    "size": {
+                      "xl": {
+                        "gridWidth": 6
+                      }
+                    },
+                    "widget": {
+                      "type": "insight",
+                      "title": "Revenue per $ vs Budget by Campaign",
+                      "description": "",
+                      "ignoreDashboardFilters": [
+
+                      ],
+                      "insight": {
+                        "identifier": {
+                          "id": "13dffa51-533d-4909-9f08-412201e110df",
+                          "type": "visualizationObject"
+                        }
+                      },
+                      "drills": [
+
+                      ],
+                      "properties": {
+
+                      }
+                    }
+                  }
+                ],
+                "header": {
+                  "title": "How my campaign budget breaks down"
+                }
+              }
+            ]
+          },
+          "version": "2"
+        },
+        "description": "",
+        "id": "3f5b32b4-bb24-4515-93a6-15e4814169d8",
+        "title": "4. Campaign Details"
+      },
+      {
+        "content": {
+          "filterContextRef": {
+            "identifier": {
+              "id": "d55857f1-bae1-4473-a232-061b04fdce12",
+              "type": "filterContext"
+            }
+          },
+          "layout": {
+            "type": "IDashboardLayout",
+            "sections": [
+              {
+                "type": "IDashboardLayoutSection",
+                "items": [
+                  {
+                    "type": "IDashboardLayoutItem",
+                    "size": {
+                      "xl": {
+                        "gridWidth": 3
+                      }
+                    },
+                    "widget": {
+                      "type": "insight",
+                      "title": "Total Revenue",
+                      "description": "",
+                      "ignoreDashboardFilters": [
+
+                      ],
+                      "dateDataSet": {
+                        "identifier": {
+                          "id": "date",
+                          "type": "dataset"
+                        }
+                      },
+                      "insight": {
+                        "identifier": {
+                          "id": "8d7edbd2-f2b5-4fc5-a864-4eeb55df04b7",
+                          "type": "visualizationObject"
+                        }
+                      },
+                      "drills": [
+
+                      ],
+                      "properties": {
+
+                      }
+                    }
+                  },
+                  {
+                    "type": "IDashboardLayoutItem",
+                    "size": {
+                      "xl": {
+                        "gridWidth": 3
+                      }
+                    },
+                    "widget": {
+                      "type": "insight",
+                      "title": "Total Orders",
+                      "description": "",
+                      "ignoreDashboardFilters": [
+
+                      ],
+                      "dateDataSet": {
+                        "identifier": {
+                          "id": "date",
+                          "type": "dataset"
+                        }
+                      },
+                      "insight": {
+                        "identifier": {
+                          "id": "926f8e88-e4ca-47ea-9172-6e16336c7fd5",
+                          "type": "visualizationObject"
+                        }
+                      },
+                      "drills": [
+
+                      ],
+                      "properties": {
+
+                      }
+                    }
+                  },
+                  {
+                    "type": "IDashboardLayoutItem",
+                    "size": {
+                      "xl": {
+                        "gridWidth": 3
+                      }
+                    },
+                    "widget": {
+                      "type": "insight",
+                      "title": "# of Active Customers",
+                      "description": "",
+                      "ignoreDashboardFilters": [
+
+                      ],
+                      "dateDataSet": {
+                        "identifier": {
+                          "id": "date",
+                          "type": "dataset"
+                        }
+                      },
+                      "insight": {
+                        "identifier": {
+                          "id": "aa86d936-9394-4e19-8268-4d1286c707ea",
+                          "type": "visualizationObject"
+                        }
+                      },
+                      "drills": [
+
+                      ],
+                      "properties": {
+
+                      }
+                    }
+                  },
+                  {
+                    "type": "IDashboardLayoutItem",
+                    "size": {
+                      "xl": {
+                        "gridWidth": 3
+                      }
+                    },
+                    "widget": {
+                      "type": "insight",
+                      "title": "Avg Revenue per Customer",
+                      "description": "",
+                      "ignoreDashboardFilters": [
+
+                      ],
+                      "dateDataSet": {
+                        "identifier": {
+                          "id": "date",
+                          "type": "dataset"
+                        }
+                      },
+                      "insight": {
+                        "identifier": {
+                          "id": "7cb4b7c0-3865-4f30-83bd-e866e503dedb",
+                          "type": "visualizationObject"
+                        }
+                      },
+                      "drills": [
+
+                      ],
+                      "properties": {
+
+                      }
+                    }
+                  },
+                  {
+                    "type": "IDashboardLayoutItem",
+                    "size": {
+                      "xl": {
+                        "gridWidth": 6
+                      }
+                    },
+                    "widget": {
+                      "type": "insight",
+                      "title": "Revenue Trend",
+                      "description": "",
+                      "ignoreDashboardFilters": [
+
+                      ],
+                      "dateDataSet": {
+                        "identifier": {
+                          "id": "date",
+                          "type": "dataset"
+                        }
+                      },
+                      "insight": {
+                        "identifier": {
+                          "id": "51f5d35d-1270-4494-860a-2984e5f267ab",
+                          "type": "visualizationObject"
+                        }
+                      },
+                      "drills": [
+
+                      ],
+                      "properties": {
+
+                      }
+                    }
+                  },
+                  {
+                    "type": "IDashboardLayoutItem",
+                    "size": {
+                      "xl": {
+                        "gridWidth": 6
+                      }
+                    },
+                    "widget": {
+                      "type": "insight",
+                      "title": "Customers Trend",
+                      "description": "",
+                      "ignoreDashboardFilters": [
+
+                      ],
+                      "dateDataSet": {
+                        "identifier": {
+                          "id": "date",
+                          "type": "dataset"
+                        }
+                      },
+                      "insight": {
+                        "identifier": {
+                          "id": "a8ecbfa3-8190-448b-9d73-480bc38391c8",
+                          "type": "visualizationObject"
+                        }
+                      },
+                      "drills": [
+
+                      ],
+                      "properties": {
+
+                      }
+                    }
+                  }
+                ],
+                "header": {
+                  "title": "How I'm Doing"
+                }
+              },
+              {
+                "type": "IDashboardLayoutSection",
+                "items": [
+                  {
+                    "type": "IDashboardLayoutItem",
+                    "size": {
+                      "xl": {
+                        "gridWidth": 6
+                      }
+                    },
+                    "widget": {
+                      "type": "insight",
+                      "title": "Top 10 Products",
+                      "description": "",
+                      "ignoreDashboardFilters": [
+
+                      ],
+                      "dateDataSet": {
+                        "identifier": {
+                          "id": "date",
+                          "type": "dataset"
+                        }
+                      },
+                      "insight": {
+                        "identifier": {
+                          "id": "b35d808c-dccf-44b8-9367-91fe230dbb58",
+                          "type": "visualizationObject"
+                        }
+                      },
+                      "drills": [
+
+                      ],
+                      "properties": {
+
+                      }
+                    }
+                  },
+                  {
+                    "type": "IDashboardLayoutItem",
+                    "size": {
+                      "xl": {
+                        "gridWidth": 6
+                      }
+                    },
+                    "widget": {
+                      "type": "insight",
+                      "title": "Product Categories Pie Chart",
+                      "description": "",
+                      "ignoreDashboardFilters": [
+
+                      ],
+                      "dateDataSet": {
+                        "identifier": {
+                          "id": "date",
+                          "type": "dataset"
+                        }
+                      },
+                      "insight": {
+                        "identifier": {
+                          "id": "e8d2d3ff-7b0a-414f-a9d9-89bd669a5a6b",
+                          "type": "visualizationObject"
+                        }
+                      },
+                      "drills": [
+
+                      ],
+                      "properties": {
+
+                      }
+                    }
+                  },
+                  {
+                    "type": "IDashboardLayoutItem",
+                    "size": {
+                      "xl": {
+                        "gridWidth": 12
+                      }
+                    },
+                    "widget": {
+                      "type": "insight",
+                      "title": "Total Quarter Revenue to Target",
+                      "description": "",
+                      "ignoreDashboardFilters": [
+
+                      ],
+                      "dateDataSet": {
+                        "identifier": {
+                          "id": "date",
+                          "type": "dataset"
+                        }
+                      },
+                      "insight": {
+                        "identifier": {
+                          "id": "6767c309-1f5f-4a87-98a2-eca4ecd758ce",
+                          "type": "visualizationObject"
+                        }
+                      },
+                      "drills": [
+
+                      ],
+                      "properties": {
+
+                      }
+                    }
+                  }
+                ],
+                "header": {
+                  "title": "How are my products doing"
+                }
+              },
+              {
+                "type": "IDashboardLayoutSection",
+                "items": [
+                  {
+                    "type": "IDashboardLayoutItem",
+                    "size": {
+                      "xl": {
+                        "gridWidth": 12
+                      }
+                    },
+                    "widget": {
+                      "type": "insight",
+                      "title": "Top 10 Customers",
+                      "description": "",
+                      "ignoreDashboardFilters": [
+
+                      ],
+                      "dateDataSet": {
+                        "identifier": {
+                          "id": "date",
+                          "type": "dataset"
+                        }
+                      },
+                      "insight": {
+                        "identifier": {
+                          "id": "867ef3d5-9245-4926-8ff6-94c978b606b3",
+                          "type": "visualizationObject"
+                        }
+                      },
+                      "drills": [
+
+                      ],
+                      "properties": {
+
+                      }
+                    }
+                  }
+                ],
+                "header": {
+                  "title": "Who are my customers"
+                }
+              }
+            ]
+          },
+          "version": "2"
+        },
+        "description": "",
+        "id": "5e26dc07-483d-49cb-bddc-caf09694a1d5",
+        "title": "1. Overview"
+      },
+      {
+        "content": {
+          "filterContextRef": {
+            "identifier": {
+              "id": "cd1da3e9-2964-47c6-bbe1-7ea9f6fc01cf",
+              "type": "filterContext"
+            }
+          },
+          "layout": {
+            "type": "IDashboardLayout",
+            "sections": [
+              {
+                "type": "IDashboardLayoutSection",
+                "items": [
+                  {
+                    "type": "IDashboardLayoutItem",
+                    "size": {
+                      "xl": {
+                        "gridWidth": 12
+                      }
+                    },
+                    "widget": {
+                      "type": "insight",
+                      "title": "Customer Distribution",
+                      "description": "",
+                      "ignoreDashboardFilters": [
+
+                      ],
+                      "dateDataSet": {
+                        "identifier": {
+                          "id": "date",
+                          "type": "dataset"
+                        }
+                      },
+                      "insight": {
+                        "identifier": {
+                          "id": "3450398c-dd71-4afe-bf7d-0821c012da44",
+                          "type": "visualizationObject"
+                        }
+                      },
+                      "drills": [
+
+                      ],
+                      "properties": {
+
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "type": "IDashboardLayoutSection",
+                "items": [
+                  {
+                    "type": "IDashboardLayoutItem",
+                    "size": {
+                      "xl": {
+                        "gridWidth": 12
+                      }
+                    },
+                    "widget": {
+                      "type": "insight",
+                      "title": "% Revenue per Product by Customer and Category",
+                      "description": "",
+                      "ignoreDashboardFilters": [
+
+                      ],
+                      "dateDataSet": {
+                        "identifier": {
+                          "id": "date",
+                          "type": "dataset"
+                        }
+                      },
+                      "insight": {
+                        "identifier": {
+                          "id": "7072eeca-7cd6-4a17-92cd-fac0fcbc8ad6",
+                          "type": "visualizationObject"
+                        }
+                      },
+                      "drills": [
+
+                      ],
+                      "properties": {
+
+                      }
+                    }
+                  }
+                ],
+                "header": {
+                  "title": "What my customers are buying"
+                }
+              },
+              {
+                "type": "IDashboardLayoutSection",
+                "items": [
+                  {
+                    "type": "IDashboardLayoutItem",
+                    "size": {
+                      "xl": {
+                        "gridWidth": 12
+                      }
+                    },
+                    "widget": {
+                      "type": "insight",
+                      "title": "Returning Customers",
+                      "description": "",
+                      "ignoreDashboardFilters": [
+
+                      ],
+                      "dateDataSet": {
+                        "identifier": {
+                          "id": "date",
+                          "type": "dataset"
+                        }
+                      },
+                      "insight": {
+                        "identifier": {
+                          "id": "42c98456-635a-4dc7-93ef-e3b4cd125dd9",
+                          "type": "visualizationObject"
+                        }
+                      },
+                      "drills": [
+
+                      ],
+                      "properties": {
+
+                      }
+                    }
+                  }
+                ],
+                "header": {
+                  "title": "Who are my returning customers"
+                }
+              }
+            ]
+          },
+          "version": "2"
+        },
+        "description": "",
+        "id": "6ba0866c-dcb5-4fd8-9529-edf9e367ab65",
+        "title": "3. Customer Details"
+      }
+    ],
+    "filterContexts": [
+      {
+        "content": {
+          "filters": [
+            {
+              "attributeFilter": {
+                "displayForm": {
+                  "identifier": {
+                    "id": "campaigns.campaign_name",
+                    "type": "label"
+                  }
+                },
+                "negativeSelection": true,
+                "attributeElements": {
+                  "uris": [
+
+                  ]
+                },
+                "localIdentifier": "383a045bb38e4956a9af464de17fc11a",
+                "filterElementsBy": [
+
+                ]
+              }
+            }
+          ],
+          "version": "2"
+        },
+        "description": "",
+        "id": "1bc1fede-2bb0-4120-b752-167c60783709",
+        "title": "filterContext"
+      },
+      {
+        "content": {
+          "filters": [
+            {
+              "dateFilter": {
+                "from": "0",
+                "to": "0",
+                "granularity": "GDC.time.month",
+                "type": "relative"
+              }
+            }
+          ],
+          "version": "2"
+        },
+        "description": "",
+        "id": "4ea03c05-bc76-406a-8309-7d8afb879d6f",
+        "title": "filterContext"
+      },
+      {
+        "content": {
+          "filters": [
+            {
+              "dateFilter": {
+                "from": "-11",
+                "to": "0",
+                "granularity": "GDC.time.month",
+                "type": "relative"
+              }
+            },
+            {
+              "attributeFilter": {
+                "displayForm": {
+                  "identifier": {
+                    "id": "products.product_category",
+                    "type": "label"
+                  }
+                },
+                "negativeSelection": true,
+                "attributeElements": {
+                  "uris": [
+
+                  ]
+                },
+                "localIdentifier": "7625ef5d99a4423aaa62ffcf4c2fedb9",
+                "filterElementsBy": [
+
+                ]
+              }
+            }
+          ],
+          "version": "2"
+        },
+        "description": "",
+        "id": "62c221c0-e1bf-4ecb-b570-673bff4e7e88",
+        "title": "filterContext"
+      },
+      {
+        "content": {
+          "filters": [
+            {
+              "dateFilter": {
+                "from": "-11",
+                "to": "0",
+                "granularity": "GDC.time.month",
+                "type": "relative"
+              }
+            },
+            {
+              "attributeFilter": {
+                "displayForm": {
+                  "identifier": {
+                    "id": "customers.state",
+                    "type": "label"
+                  }
+                },
+                "negativeSelection": true,
+                "attributeElements": {
+                  "uris": [
+
+                  ]
+                },
+                "localIdentifier": "034450a5e02f427c96dc7595d0d0da17",
+                "filterElementsBy": [
+
+                ]
+              }
+            }
+          ],
+          "version": "2"
+        },
+        "description": "",
+        "id": "cd1da3e9-2964-47c6-bbe1-7ea9f6fc01cf",
+        "title": "filterContext"
+      },
+      {
+        "content": {
+          "filters": [
+            {
+              "dateFilter": {
+                "from": "-11",
+                "to": "0",
+                "granularity": "GDC.time.month",
+                "type": "relative"
+              }
+            }
+          ],
+          "version": "2"
+        },
+        "description": "",
+        "id": "d55857f1-bae1-4473-a232-061b04fdce12",
+        "title": "filterContext"
+      },
+      {
+        "content": {
+          "filters": [
+            {
+              "dateFilter": {
+                "from": "-11",
+                "to": "0",
+                "granularity": "GDC.time.month",
+                "type": "relative"
+              }
+            },
+            {
+              "attributeFilter": {
+                "displayForm": {
+                  "identifier": {
+                    "id": "products.product_category",
+                    "type": "label"
+                  }
+                },
+                "negativeSelection": true,
+                "attributeElements": {
+                  "uris": [
+
+                  ]
+                },
+                "localIdentifier": "044645b6d4b4478eb122305bb9352478",
+                "filterElementsBy": [
+
+                ]
+              }
+            }
+          ],
+          "version": "2"
+        },
+        "description": "",
+        "id": "ff4a8162-3b27-4606-a178-e3a21c533354",
+        "title": "filterContext"
+      }
+    ],
+    "metrics": [
+      {
+        "content": {
+          "format": "#,##0",
+          "maql": "SELECT COUNT({attribute/customers.customer_id})"
+        },
+        "description": "Numbers of active customers, which are customers who have made orders in Order Lines",
+        "id": "active_customers",
+        "title": "# of Active Customers"
+      },
+      {
+        "content": {
+          "format": "$#,##0.00",
+          "maql": "SELECT SUM({fact/campaign_channels.budget})"
+        },
+        "description": "",
+        "id": "campaign_budget",
+        "title": "Campaign Budget"
+      },
+      {
+        "content": {
+          "format": "$#,##0.00",
+          "maql": "SELECT SUM({fact/campaign_channels.spend})"
+        },
+        "description": "",
+        "id": "campaign_spend",
+        "title": "Campaign Spend"
+      },
+      {
+        "content": {
+          "format": "#,##0",
+          "maql": "SELECT COUNT({attribute/order_lines.order_id})"
+        },
+        "description": "",
+        "id": "num_orders",
+        "title": "# of Orders"
+      },
+      {
+        "content": {
+          "format": "#,##0",
+          "maql": "SELECT {metric/active_customers} WHERE (SELECT {metric/revenue} BY {attribute/customers.customer_id})>10000"
+        },
+        "description": "",
+        "id": "num_top_customers",
+        "title": "# of Top Customers"
+      },
+      {
+        "content": {
+          "format": "#,##0",
+          "maql": "SELECT {metric/num_orders} where {label/order_lines.order_status} != \"Cancelled\" and {label/order_lines.order_status} != \"Returned\""
+        },
+        "description": "",
+        "id": "num_validorders",
+        "title": "# of Valid Orders"
+      },
+      {
+        "content": {
+          "format": "$#,##0",
+          "maql": "SELECT SUM({fact/order_lines.price}*{fact/order_lines.quantity})"
+        },
+        "description": "",
+        "id": "order_amount",
+        "title": "Order Amount"
+      },
+      {
+        "content": {
+          "format": "#,##0.0%",
+          "maql": "SELECT {metric/revenue}/{metric/total_revenue}"
+        },
+        "description": "",
+        "id": "pct_revenue",
+        "title": "% Revenue"
+      },
+      {
+        "content": {
+          "format": "#,##0.0%",
+          "maql": "SELECT {metric/revenue}/(SELECT {metric/revenue} BY {attribute/products.product_category}, ALL OTHER)"
+        },
+        "description": "",
+        "id": "pct_revenue_category",
+        "title": "% Revenue in Category"
+      },
+      {
+        "content": {
+          "format": "$#,##0",
+          "maql": "SELECT {metric/order_amount} where {label/order_lines.order_status} != \"Cancelled\" and {label/order_lines.order_status} != \"Returned\""
+        },
+        "description": "",
+        "id": "revenue",
+        "title": "Revenue"
+      },
+      {
+        "content": {
+          "format": "$#,##0",
+          "maql": "SELECT {metric/revenue} where {label/products.product_category} IN (\"Clothing\")"
+        },
+        "description": "",
+        "id": "revenue_clothing",
+        "title": "Revenue (Clothing)"
+      },
+      {
+        "content": {
+          "format": "$#,##0",
+          "maql": "SELECT {metric/revenue} where {label/products.product_category} IN (\"Electronics\")"
+        },
+        "description": "",
+        "id": "revenue_electronics",
+        "title": "Revenue (Electronics)"
+      },
+      {
+        "content": {
+          "format": "$#,##0",
+          "maql": "SELECT {metric/revenue} where {label/products.product_category} IN (\"Home\")"
+        },
+        "description": "",
+        "id": "revenue_home",
+        "title": "Revenue (Home)"
+      },
+      {
+        "content": {
+          "format": "$#,##0",
+          "maql": "SELECT {metric/revenue} where {label/products.product_category} IN (\"Outdoor\")"
+        },
+        "description": "",
+        "id": "revenue_outdoor",
+        "title": "Revenue (Outdoor)"
+      },
+      {
+        "content": {
+          "format": "$#,##0.00",
+          "maql": "SELECT AVG(SELECT {metric/revenue} BY {attribute/customers.customer_id})"
+        },
+        "description": "Average revenue from each customer",
+        "id": "revenue_per_customer",
+        "title": "Revenue per Customer"
+      },
+      {
+        "content": {
+          "format": "$#,##0.00",
+          "maql": "SELECT {metric/revenue}/{metric/campaign_spend}"
+        },
+        "description": "",
+        "id": "revenue_per_dollar",
+        "title": "Revenue per Dollar Spend"
+      },
+      {
+        "content": {
+          "format": "$#,##0",
+          "maql": "SELECT {metric/revenue} where {label/date.quarter} = PREVIOUS(QUARTER)"
+        },
+        "description": "",
+        "id": "revenue_previous_q",
+        "title": "Previous Quarter Revenue"
+      },
+      {
+        "content": {
+          "format": "$#,##0",
+          "maql": "SELECT {metric/revenue} where {label/date.quarter} = THIS(QUARTER)"
+        },
+        "description": "",
+        "id": "revenue_this_q",
+        "title": "Total Revenue this Quarter"
+      },
+      {
+        "content": {
+          "format": "$#,##0.00",
+          "maql": "SELECT {metric/revenue} WHERE TOP(10) OF ({metric/revenue})"
+        },
+        "description": "Revenue from the top 10 orders (In revenue)",
+        "id": "revenue_top10",
+        "title": "Revenue / Top 10"
+      },
+      {
+        "content": {
+          "format": "$#,##0",
+          "maql": "SELECT {metric/revenue}*1.1 where {label/date.quarter} = PREVIOUS(QUARTER)"
+        },
+        "description": "",
+        "id": "target_revenue",
+        "title": "Target Quarter Revenue"
+      },
+      {
+        "content": {
+          "format": "$#,##0",
+          "maql": "SELECT {metric/revenue} BY ALL OTHER"
+        },
+        "description": "",
+        "id": "total_revenue",
+        "title": "Total Revenue"
+      }
+    ],
+    "visualizationObjects": [
+      {
+        "content": {
+          "buckets": [
+            {
+              "items": [
+                {
+                  "measure": {
+                    "localIdentifier": "c7aaddb59c2841c7bec88cd5f74d16b0",
+                    "definition": {
+                      "measureDefinition": {
+                        "item": {
+                          "identifier": {
+                            "id": "revenue",
+                            "type": "metric"
+                          }
+                        },
+                        "filters": [
+
+                        ]
+                      }
+                    },
+                    "title": "Revenue"
+                  }
+                }
+              ],
+              "localIdentifier": "measures"
+            },
+            {
+              "items": [
+                {
+                  "attribute": {
+                    "localIdentifier": "06a425a8d40049709d814657cc109e06",
+                    "displayForm": {
+                      "identifier": {
+                        "id": "products.product_category",
+                        "type": "label"
+                      }
+                    }
+                  }
+                }
+              ],
+              "localIdentifier": "view"
+            },
+            {
+              "items": [
+                {
+                  "attribute": {
+                    "localIdentifier": "d92289944cbb41788ebd8d7c64632db3",
+                    "displayForm": {
+                      "identifier": {
+                        "id": "products.product_name",
+                        "type": "label"
+                      }
+                    }
+                  }
+                }
+              ],
+              "localIdentifier": "segment"
+            }
+          ],
+          "filters": [
+            {
+              "negativeAttributeFilter": {
+                "displayForm": {
+                  "identifier": {
+                    "id": "products.product_category",
+                    "type": "label"
+                  }
+                },
+                "notIn": {
+                  "values": [
+
+                  ]
+                }
+              }
+            },
+            {
+              "negativeAttributeFilter": {
+                "displayForm": {
+                  "identifier": {
+                    "id": "products.product_name",
+                    "type": "label"
+                  }
+                },
+                "notIn": {
+                  "values": [
+
+                  ]
+                }
+              }
+            }
+          ],
+          "ref": {
+
+          },
+          "properties": {
+
+          },
+          "sorts": [
+
+          ],
+          "visualizationUrl": "local:treemap",
+          "isLocked": false,
+          "version": "2"
+        },
+        "description": "Product Breakdown",
+        "id": "0710bc43-2ec6-4de4-9a3a-53c13863833b",
+        "title": "Product Breakdown"
+      },
+      {
+        "content": {
+          "buckets": [
+            {
+              "items": [
+                {
+                  "measure": {
+                    "localIdentifier": "cc968dffdaeb4e44943886a62500b63c",
+                    "definition": {
+                      "measureDefinition": {
+                        "item": {
+                          "identifier": {
+                            "id": "revenue_outdoor",
+                            "type": "metric"
+                          }
+                        },
+                        "filters": [
+
+                        ]
+                      }
+                    },
+                    "title": "Revenue (Outdoor)"
+                  }
+                }
+              ],
+              "localIdentifier": "measures"
+            }
+          ],
+          "filters": [
+
+          ],
+          "ref": {
+
+          },
+          "properties": {
+
+          },
+          "sorts": [
+
+          ],
+          "visualizationUrl": "local:headline",
+          "isLocked": false,
+          "version": "2"
+        },
+        "description": "Outdoor",
+        "id": "115980cf-cf6c-40c2-b580-aa86bc6b14d4",
+        "title": "Outdoor"
+      },
+      {
+        "content": {
+          "buckets": [
+            {
+              "items": [
+                {
+                  "measure": {
+                    "localIdentifier": "c02c796c5df945dfb2b09763b4bf75f2",
+                    "definition": {
+                      "measureDefinition": {
+                        "item": {
+                          "identifier": {
+                            "id": "campaign_budget",
+                            "type": "metric"
+                          }
+                        },
+                        "filters": [
+
+                        ]
+                      }
+                    },
+                    "title": "Campaign Budget"
+                  }
+                }
+              ],
+              "localIdentifier": "measures"
+            },
+            {
+              "items": [
+                {
+                  "measure": {
+                    "localIdentifier": "f9659a2e3cd04112bcb0aece83d23b55",
+                    "definition": {
+                      "measureDefinition": {
+                        "item": {
+                          "identifier": {
+                            "id": "revenue_per_dollar",
+                            "type": "metric"
+                          }
+                        },
+                        "filters": [
+
+                        ]
+                      }
+                    },
+                    "title": "Revenue per Dollar Spend"
+                  }
+                }
+              ],
+              "localIdentifier": "secondary_measures"
+            },
+            {
+              "items": [
+                {
+                  "attribute": {
+                    "localIdentifier": "897321f59bca43efbbd83e226863c734",
+                    "displayForm": {
+                      "identifier": {
+                        "id": "campaigns.campaign_name",
+                        "type": "label"
+                      }
+                    }
+                  }
+                }
+              ],
+              "localIdentifier": "attribute"
+            }
+          ],
+          "filters": [
+
+          ],
+          "ref": {
+
+          },
+          "properties": {
+
+          },
+          "sorts": [
+
+          ],
+          "visualizationUrl": "local:scatter",
+          "isLocked": false,
+          "version": "2"
+        },
+        "description": "Revenue per $ vs Budget by Campaign",
+        "id": "13dffa51-533d-4909-9f08-412201e110df",
+        "title": "Revenue per $ vs Budget by Campaign"
+      },
+      {
+        "content": {
+          "buckets": [
+            {
+              "items": [
+                {
+                  "measure": {
+                    "localIdentifier": "05f9a6e5192c4af1ab3b522373bfa444",
+                    "definition": {
+                      "measureDefinition": {
+                        "item": {
+                          "identifier": {
+                            "id": "active_customers",
+                            "type": "metric"
+                          }
+                        },
+                        "filters": [
+
+                        ]
+                      }
+                    },
+                    "title": "# of Active Customers"
+                  }
+                }
+              ],
+              "localIdentifier": "measures"
+            },
+            {
+              "items": [
+                {
+                  "attribute": {
+                    "localIdentifier": "64ed80813b464f30a17c06ede56804fe",
+                    "displayForm": {
+                      "identifier": {
+                        "id": "customers.region",
+                        "type": "label"
+                      }
+                    }
+                  }
+                }
+              ],
+              "localIdentifier": "view"
+            },
+            {
+              "items": [
+                {
+                  "attribute": {
+                    "localIdentifier": "163444f62a0b449cbc35198eea9e68f0",
+                    "displayForm": {
+                      "identifier": {
+                        "id": "customers.state",
+                        "type": "label"
+                      }
+                    }
+                  }
+                }
+              ],
+              "localIdentifier": "segment"
+            }
+          ],
+          "filters": [
+
+          ],
+          "ref": {
+
+          },
+          "properties": {
+
+          },
+          "sorts": [
+
+          ],
+          "visualizationUrl": "local:treemap",
+          "isLocked": false,
+          "version": "2"
+        },
+        "description": "Customer Distribution",
+        "id": "3450398c-dd71-4afe-bf7d-0821c012da44",
+        "title": "Customer Distribution"
+      },
+      {
+        "content": {
+          "buckets": [
+            {
+              "items": [
+                {
+                  "measure": {
+                    "localIdentifier": "cdd3116478634e50866f730bb6e94484",
+                    "definition": {
+                      "measureDefinition": {
+                        "item": {
+                          "identifier": {
+                            "id": "campaign_spend",
+                            "type": "metric"
+                          }
+                        },
+                        "filters": [
+
+                        ]
+                      }
+                    },
+                    "title": "Campaign Spend"
+                  }
+                }
+              ],
+              "localIdentifier": "measures"
+            },
+            {
+              "items": [
+                {
+                  "attribute": {
+                    "localIdentifier": "e3a5679305d94853a8b98e93c3039b86",
+                    "displayForm": {
+                      "identifier": {
+                        "id": "campaign_channels.category",
+                        "type": "label"
+                      }
+                    }
+                  }
+                }
+              ],
+              "localIdentifier": "view"
+            },
+            {
+              "items": [
+                {
+                  "attribute": {
+                    "localIdentifier": "9fb2b46485f2466d919f97fc6c1842b4",
+                    "displayForm": {
+                      "identifier": {
+                        "id": "campaigns.campaign_name",
+                        "type": "label"
+                      }
+                    }
+                  }
+                }
+              ],
+              "localIdentifier": "segment"
+            }
+          ],
+          "filters": [
+            {
+              "negativeAttributeFilter": {
+                "displayForm": {
+                  "identifier": {
+                    "id": "campaign_channels.type",
+                    "type": "label"
+                  }
+                },
+                "notIn": {
+                  "values": [
+
+                  ]
+                }
+              }
+            },
+            {
+              "negativeAttributeFilter": {
+                "displayForm": {
+                  "identifier": {
+                    "id": "campaign_channels.category",
+                    "type": "label"
+                  }
+                },
+                "notIn": {
+                  "values": [
+
+                  ]
+                }
+              }
+            },
+            {
+              "negativeAttributeFilter": {
+                "displayForm": {
+                  "identifier": {
+                    "id": "campaigns.campaign_name",
+                    "type": "label"
+                  }
+                },
+                "notIn": {
+                  "values": [
+
+                  ]
+                }
+              }
+            }
+          ],
+          "ref": {
+
+          },
+          "properties": {
+
+          },
+          "sorts": [
+
+          ],
+          "visualizationUrl": "local:treemap",
+          "isLocked": false,
+          "version": "2"
+        },
+        "description": "Campaign Spend",
+        "id": "38e73072-c38c-4d6d-9b8a-106653ffc473",
+        "title": "Campaign Spend"
+      },
+      {
+        "content": {
+          "buckets": [
+            {
+              "items": [
+                {
+                  "measure": {
+                    "localIdentifier": "ecd465d81eb0458e99e5769a2573a585",
+                    "definition": {
+                      "measureDefinition": {
+                        "item": {
+                          "identifier": {
+                            "id": "num_validorders",
+                            "type": "metric"
+                          }
+                        },
+                        "filters": [
+
+                        ]
+                      }
+                    },
+                    "title": "# of Valid Orders",
+                    "alias": "# of Orders"
+                  }
+                },
+                {
+                  "measure": {
+                    "localIdentifier": "931016e2e04946faa75a74a102398b1b",
+                    "definition": {
+                      "measureDefinition": {
+                        "item": {
+                          "identifier": {
+                            "id": "order_amount",
+                            "type": "metric"
+                          }
+                        },
+                        "filters": [
+
+                        ]
+                      }
+                    },
+                    "title": "Order Amount"
+                  }
+                }
+              ],
+              "localIdentifier": "measures"
+            },
+            {
+              "items": [
+                {
+                  "attribute": {
+                    "localIdentifier": "8618a2a59e1e438ab03562234ec6c3ca",
+                    "displayForm": {
+                      "identifier": {
+                        "id": "customers.customer_name",
+                        "type": "label"
+                      }
+                    }
+                  }
+                },
+                {
+                  "attribute": {
+                    "localIdentifier": "f0fb205fa21f4e02b87908ef95d06830",
+                    "displayForm": {
+                      "identifier": {
+                        "id": "customers.state",
+                        "type": "label"
+                      }
+                    }
+                  }
+                },
+                {
+                  "attribute": {
+                    "localIdentifier": "aabc16c68b25451c937309a5976a1504",
+                    "displayForm": {
+                      "identifier": {
+                        "id": "customers.city",
+                        "type": "label"
+                      }
+                    }
+                  }
+                }
+              ],
+              "localIdentifier": "attribute"
+            }
+          ],
+          "filters": [
+            {
+              "measureValueFilter": {
+                "condition": {
+                  "comparison": {
+                    "operator": "GREATER_THAN",
+                    "value": 1,
+                    "treatNullValuesAs": 0
+                  }
+                },
+                "measure": {
+                  "localIdentifier": "ecd465d81eb0458e99e5769a2573a585"
+                }
+              }
+            }
+          ],
+          "ref": {
+            "uri": "http://localhost:3000/api/entities/workspaces/premium_master/visualizationObjects/42c98456-635a-4dc7-93ef-e3b4cd125dd9"
+          },
+          "identifier": "42c98456-635a-4dc7-93ef-e3b4cd125dd9",
+          "properties": {
+            "sortItems": [
+              {
+                "attributeSortItem": {
+                  "attributeIdentifier": "8618a2a59e1e438ab03562234ec6c3ca",
+                  "direction": "asc"
+                }
+              }
+            ]
+          },
+          "sorts": [
+            {
+              "attributeSortItem": {
+                "attributeIdentifier": "8618a2a59e1e438ab03562234ec6c3ca",
+                "direction": "asc"
+              }
+            }
+          ],
+          "uri": "http://localhost:3000/api/entities/workspaces/premium_master/visualizationObjects/42c98456-635a-4dc7-93ef-e3b4cd125dd9",
+          "visualizationUrl": "local:table",
+          "isLocked": false,
+          "version": "2"
+        },
+        "description": "Returning Customers",
+        "id": "42c98456-635a-4dc7-93ef-e3b4cd125dd9",
+        "title": "Returning Customers"
+      },
+      {
+        "content": {
+          "buckets": [
+            {
+              "items": [
+                {
+                  "measure": {
+                    "localIdentifier": "84915eedd5b14ecca52d2beec569dad7",
+                    "definition": {
+                      "measureDefinition": {
+                        "item": {
+                          "identifier": {
+                            "id": "revenue",
+                            "type": "metric"
+                          }
+                        },
+                        "filters": [
+
+                        ]
+                      }
+                    },
+                    "title": "Revenue"
+                  }
+                }
+              ],
+              "localIdentifier": "measures"
+            },
+            {
+              "items": [
+                {
+                  "measure": {
+                    "localIdentifier": "1c4b51b5b0724d3299b945ba65b0ec9c",
+                    "definition": {
+                      "measureDefinition": {
+                        "item": {
+                          "identifier": {
+                            "id": "order_lines.order_id",
+                            "type": "attribute"
+                          }
+                        },
+                        "aggregation": "count",
+                        "filters": [
+
+                        ]
+                      }
+                    },
+                    "title": "Count of Order id",
+                    "format": "#,##0"
+                  }
+                }
+              ],
+              "localIdentifier": "secondary_measures"
+            },
+            {
+              "items": [
+                {
+                  "attribute": {
+                    "localIdentifier": "a8acd8425ce040c29e50ab72c6dec127",
+                    "displayForm": {
+                      "identifier": {
+                        "id": "date.month",
+                        "type": "label"
+                      }
+                    }
+                  }
+                }
+              ],
+              "localIdentifier": "view"
+            }
+          ],
+          "filters": [
+
+          ],
+          "ref": {
+
+          },
+          "properties": {
+            "controls": {
+              "dualAxis": true,
+              "primaryChartType": "column",
+              "secondaryChartType": "line",
+              "secondary_yaxis": {
+                "measures": [
+                  "1c4b51b5b0724d3299b945ba65b0ec9c"
+                ]
+              }
+            }
+          },
+          "sorts": [
+
+          ],
+          "visualizationUrl": "local:combo2",
+          "isLocked": false,
+          "version": "2"
+        },
+        "description": "Revenue Trend",
+        "id": "51f5d35d-1270-4494-860a-2984e5f267ab",
+        "title": "Revenue Trend"
+      },
+      {
+        "content": {
+          "buckets": [
+            {
+              "items": [
+                {
+                  "measure": {
+                    "localIdentifier": "8a0595bd76e7479ca2dd07213ce6b214",
+                    "definition": {
+                      "measureDefinition": {
+                        "item": {
+                          "identifier": {
+                            "id": "revenue_this_q",
+                            "type": "metric"
+                          }
+                        },
+                        "filters": [
+
+                        ]
+                      }
+                    },
+                    "title": "Total Revenue this Quarter"
+                  }
+                }
+              ],
+              "localIdentifier": "measures"
+            },
+            {
+              "items": [
+                {
+                  "measure": {
+                    "localIdentifier": "71b982f1e49d49cca2ee7a96a6e7890c",
+                    "definition": {
+                      "measureDefinition": {
+                        "item": {
+                          "identifier": {
+                            "id": "target_revenue",
+                            "type": "metric"
+                          }
+                        },
+                        "filters": [
+
+                        ]
+                      }
+                    },
+                    "title": "Target Quarter Revenue"
+                  }
+                }
+              ],
+              "localIdentifier": "secondary_measures"
+            },
+            {
+              "items": [
+                {
+                  "measure": {
+                    "localIdentifier": "cb5683fc63c74a5a9c2b8f77aba17003",
+                    "definition": {
+                      "measureDefinition": {
+                        "item": {
+                          "identifier": {
+                            "id": "revenue_previous_q",
+                            "type": "metric"
+                          }
+                        },
+                        "filters": [
+
+                        ]
+                      }
+                    },
+                    "title": "Previous Quarter Revenue"
+                  }
+                }
+              ],
+              "localIdentifier": "tertiary_measures"
+            },
+            {
+              "items": [
+                {
+                  "attribute": {
+                    "localIdentifier": "574dfc553f49430fa920fd70567217a1",
+                    "displayForm": {
+                      "identifier": {
+                        "id": "products.product_category",
+                        "type": "label"
+                      }
+                    }
+                  }
+                }
+              ],
+              "localIdentifier": "view"
+            }
+          ],
+          "filters": [
+
+          ],
+          "ref": {
+            "uri": "http://localhost:3000/api/entities/workspaces/ece16769f4cd41acbdf88d7790bfd419/visualizationObjects/6767c309-1f5f-4a87-98a2-eca4ecd758ce"
+          },
+          "identifier": "6767c309-1f5f-4a87-98a2-eca4ecd758ce",
+          "properties": {
+
+          },
+          "sorts": [
+
+          ],
+          "uri": "http://localhost:3000/api/entities/workspaces/ece16769f4cd41acbdf88d7790bfd419/visualizationObjects/6767c309-1f5f-4a87-98a2-eca4ecd758ce",
+          "visualizationUrl": "local:bullet",
+          "isLocked": false,
+          "version": "2"
+        },
+        "description": "Total Quarter Revenue to Target",
+        "id": "6767c309-1f5f-4a87-98a2-eca4ecd758ce",
+        "title": "Total Quarter Revenue to Target"
+      },
+      {
+        "content": {
+          "buckets": [
+            {
+              "items": [
+                {
+                  "measure": {
+                    "localIdentifier": "922204caeef848ff9247655b90c51404",
+                    "definition": {
+                      "measureDefinition": {
+                        "item": {
+                          "identifier": {
+                            "id": "campaign_budget",
+                            "type": "metric"
+                          }
+                        },
+                        "filters": [
+
+                        ]
+                      }
+                    },
+                    "title": "Campaign Budget"
+                  }
+                }
+              ],
+              "localIdentifier": "measures"
+            },
+            {
+              "items": [
+                {
+                  "attribute": {
+                    "localIdentifier": "3e0a9c952f8540cabe7df3a8f8c17eec",
+                    "displayForm": {
+                      "identifier": {
+                        "id": "campaign_channels.category",
+                        "type": "label"
+                      }
+                    }
+                  }
+                }
+              ],
+              "localIdentifier": "view"
+            },
+            {
+              "items": [
+                {
+                  "attribute": {
+                    "localIdentifier": "3c2f31a472274473a211f5804d8b2486",
+                    "displayForm": {
+                      "identifier": {
+                        "id": "campaigns.campaign_name",
+                        "type": "label"
+                      }
+                    }
+                  }
+                }
+              ],
+              "localIdentifier": "segment"
+            }
+          ],
+          "filters": [
+            {
+              "negativeAttributeFilter": {
+                "displayForm": {
+                  "identifier": {
+                    "id": "campaign_channels.type",
+                    "type": "label"
+                  }
+                },
+                "notIn": {
+                  "values": [
+
+                  ]
+                }
+              }
+            },
+            {
+              "negativeAttributeFilter": {
+                "displayForm": {
+                  "identifier": {
+                    "id": "campaign_channels.category",
+                    "type": "label"
+                  }
+                },
+                "notIn": {
+                  "values": [
+
+                  ]
+                }
+              }
+            },
+            {
+              "negativeAttributeFilter": {
+                "displayForm": {
+                  "identifier": {
+                    "id": "campaigns.campaign_name",
+                    "type": "label"
+                  }
+                },
+                "notIn": {
+                  "values": [
+
+                  ]
+                }
+              }
+            }
+          ],
+          "ref": {
+
+          },
+          "properties": {
+
+          },
+          "sorts": [
+
+          ],
+          "visualizationUrl": "local:treemap",
+          "isLocked": false,
+          "version": "2"
+        },
+        "description": "Campaign Budget",
+        "id": "6b7bc87b-4e65-4297-a457-ea6bbe59592d",
+        "title": "Campaign Budget"
+      },
+      {
+        "content": {
+          "buckets": [
+            {
+              "items": [
+                {
+                  "measure": {
+                    "localIdentifier": "0737be52cd4646ac8e05759d584caa6a",
+                    "definition": {
+                      "measureDefinition": {
+                        "item": {
+                          "identifier": {
+                            "id": "pct_revenue",
+                            "type": "metric"
+                          }
+                        },
+                        "filters": [
+
+                        ]
+                      }
+                    },
+                    "title": "% Revenue"
+                  }
+                },
+                {
+                  "measure": {
+                    "localIdentifier": "931d36d68c004e1291c4034ae9feaddc",
+                    "definition": {
+                      "measureDefinition": {
+                        "item": {
+                          "identifier": {
+                            "id": "revenue",
+                            "type": "metric"
+                          }
+                        },
+                        "filters": [
+
+                        ]
+                      }
+                    },
+                    "title": "Revenue"
+                  }
+                }
+              ],
+              "localIdentifier": "measures"
+            },
+            {
+              "items": [
+                {
+                  "attribute": {
+                    "localIdentifier": "53643cf9aac24132ab7459642ae6e8d5",
+                    "displayForm": {
+                      "identifier": {
+                        "id": "customers.state",
+                        "type": "label"
+                      }
+                    }
+                  }
+                },
+                {
+                  "attribute": {
+                    "localIdentifier": "abbcefb7dc0f438198e87544513822c5",
+                    "displayForm": {
+                      "identifier": {
+                        "id": "customers.city",
+                        "type": "label"
+                      }
+                    }
+                  }
+                },
+                {
+                  "attribute": {
+                    "localIdentifier": "e66f6f1a295a492fbc6f098f5d9cf568",
+                    "displayForm": {
+                      "identifier": {
+                        "id": "customers.customer_name",
+                        "type": "label"
+                      }
+                    }
+                  }
+                },
+                {
+                  "attribute": {
+                    "localIdentifier": "81cc2e543786412da82f608185ed095c",
+                    "displayForm": {
+                      "identifier": {
+                        "id": "products.product_category",
+                        "type": "label"
+                      }
+                    }
+                  }
+                },
+                {
+                  "attribute": {
+                    "localIdentifier": "05859e2ebd62407da818d4375d7b86ad",
+                    "displayForm": {
+                      "identifier": {
+                        "id": "products.product_name",
+                        "type": "label"
+                      }
+                    }
+                  }
+                }
+              ],
+              "localIdentifier": "attribute"
+            }
+          ],
+          "filters": [
+            {
+              "negativeAttributeFilter": {
+                "displayForm": {
+                  "identifier": {
+                    "id": "customers.customer_name",
+                    "type": "label"
+                  }
+                },
+                "notIn": {
+                  "values": [
+
+                  ]
+                }
+              }
+            },
+            {
+              "negativeAttributeFilter": {
+                "displayForm": {
+                  "identifier": {
+                    "id": "products.product_category",
+                    "type": "label"
+                  }
+                },
+                "notIn": {
+                  "values": [
+
+                  ]
+                }
+              }
+            },
+            {
+              "negativeAttributeFilter": {
+                "displayForm": {
+                  "identifier": {
+                    "id": "products.product_name",
+                    "type": "label"
+                  }
+                },
+                "notIn": {
+                  "values": [
+
+                  ]
+                }
+              }
+            }
+          ],
+          "ref": {
+            "uri": "http://localhost:3000/api/entities/workspaces/premium_master/visualizationObjects/7072eeca-7cd6-4a17-92cd-fac0fcbc8ad6"
+          },
+          "identifier": "7072eeca-7cd6-4a17-92cd-fac0fcbc8ad6",
+          "properties": {
+            "sortItems": [
+              {
+                "attributeSortItem": {
+                  "attributeIdentifier": "53643cf9aac24132ab7459642ae6e8d5",
+                  "direction": "asc"
+                }
+              }
+            ]
+          },
+          "sorts": [
+            {
+              "attributeSortItem": {
+                "attributeIdentifier": "53643cf9aac24132ab7459642ae6e8d5",
+                "direction": "asc"
+              }
+            }
+          ],
+          "uri": "http://localhost:3000/api/entities/workspaces/premium_master/visualizationObjects/7072eeca-7cd6-4a17-92cd-fac0fcbc8ad6",
+          "visualizationUrl": "local:table",
+          "isLocked": false,
+          "version": "2"
+        },
+        "description": "% Revenue per Product by Customer and Category",
+        "id": "7072eeca-7cd6-4a17-92cd-fac0fcbc8ad6",
+        "title": "% Revenue per Product by Customer and Category"
+      },
+      {
+        "content": {
+          "buckets": [
+            {
+              "items": [
+                {
+                  "measure": {
+                    "localIdentifier": "ea31eb1508d541eea53ffcaa68bfff98",
+                    "definition": {
+                      "measureDefinition": {
+                        "item": {
+                          "identifier": {
+                            "id": "revenue_electronics",
+                            "type": "metric"
+                          }
+                        },
+                        "filters": [
+
+                        ]
+                      }
+                    },
+                    "title": "Revenue (Electronics)"
+                  }
+                }
+              ],
+              "localIdentifier": "measures"
+            }
+          ],
+          "filters": [
+
+          ],
+          "ref": {
+
+          },
+          "properties": {
+
+          },
+          "sorts": [
+
+          ],
+          "visualizationUrl": "local:headline",
+          "isLocked": false,
+          "version": "2"
+        },
+        "description": "Electronics",
+        "id": "76587c65-1990-4652-8020-85c8d67e3ead",
+        "title": "Electronics"
+      },
+      {
+        "content": {
+          "buckets": [
+            {
+              "items": [
+                {
+                  "measure": {
+                    "localIdentifier": "02570ffaeba24d0eba32b840862f34e4",
+                    "definition": {
+                      "measureDefinition": {
+                        "item": {
+                          "identifier": {
+                            "id": "revenue_clothing",
+                            "type": "metric"
+                          }
+                        },
+                        "filters": [
+
+                        ]
+                      }
+                    },
+                    "title": "Revenue (Clothing)"
+                  }
+                }
+              ],
+              "localIdentifier": "measures"
+            }
+          ],
+          "filters": [
+
+          ],
+          "ref": {
+
+          },
+          "properties": {
+
+          },
+          "sorts": [
+
+          ],
+          "visualizationUrl": "local:headline",
+          "isLocked": false,
+          "version": "2"
+        },
+        "description": "Clothing",
+        "id": "7bae3859-6e56-4ea2-9a34-7484ae09c3eb",
+        "title": "Clothing"
+      },
+      {
+        "content": {
+          "buckets": [
+            {
+              "items": [
+                {
+                  "measure": {
+                    "localIdentifier": "6b3f48a51fdb4086b8c6318060ee0a9d",
+                    "definition": {
+                      "measureDefinition": {
+                        "item": {
+                          "identifier": {
+                            "id": "revenue_per_customer",
+                            "type": "metric"
+                          }
+                        },
+                        "filters": [
+
+                        ]
+                      }
+                    },
+                    "title": "Revenue per Customer"
+                  }
+                }
+              ],
+              "localIdentifier": "measures"
+            }
+          ],
+          "filters": [
+
+          ],
+          "ref": {
+
+          },
+          "properties": {
+
+          },
+          "sorts": [
+
+          ],
+          "visualizationUrl": "local:headline",
+          "isLocked": false,
+          "version": "2"
+        },
+        "description": "Avg Revenue per Customer",
+        "id": "7cb4b7c0-3865-4f30-83bd-e866e503dedb",
+        "title": "Avg Revenue per Customer"
+      },
+      {
+        "content": {
+          "buckets": [
+            {
+              "items": [
+                {
+                  "measure": {
+                    "localIdentifier": "d9f6ec4db5a74b8488959ac0c4e8d3d5",
+                    "definition": {
+                      "measureDefinition": {
+                        "item": {
+                          "identifier": {
+                            "id": "revenue_per_dollar",
+                            "type": "metric"
+                          }
+                        },
+                        "filters": [
+
+                        ]
+                      }
+                    },
+                    "title": "Revenue per Dollar Spend"
+                  }
+                },
+                {
+                  "measure": {
+                    "localIdentifier": "313c087791224a33896935f0427eeae2",
+                    "definition": {
+                      "measureDefinition": {
+                        "item": {
+                          "identifier": {
+                            "id": "campaign_spend",
+                            "type": "metric"
+                          }
+                        },
+                        "filters": [
+
+                        ]
+                      }
+                    },
+                    "title": "Campaign Spend"
+                  }
+                },
+                {
+                  "measure": {
+                    "localIdentifier": "93e02f0327824163bd845990e67ec061",
+                    "definition": {
+                      "measureDefinition": {
+                        "item": {
+                          "identifier": {
+                            "id": "campaign_budget",
+                            "type": "metric"
+                          }
+                        },
+                        "filters": [
+
+                        ]
+                      }
+                    },
+                    "title": "Campaign Budget",
+                    "format": "$#,##0"
+                  }
+                },
+                {
+                  "measure": {
+                    "localIdentifier": "b51d82447c1b480ca4c4e245d463a340",
+                    "definition": {
+                      "measureDefinition": {
+                        "item": {
+                          "identifier": {
+                            "id": "num_orders",
+                            "type": "metric"
+                          }
+                        },
+                        "filters": [
+
+                        ]
+                      }
+                    },
+                    "title": "# of Orders"
+                  }
+                },
+                {
+                  "measure": {
+                    "localIdentifier": "a51bce159e5a44889a7d72a27569e732",
+                    "definition": {
+                      "measureDefinition": {
+                        "item": {
+                          "identifier": {
+                            "id": "revenue",
+                            "type": "metric"
+                          }
+                        },
+                        "filters": [
+
+                        ]
+                      }
+                    },
+                    "title": "Revenue"
+                  }
+                }
+              ],
+              "localIdentifier": "measures"
+            },
+            {
+              "items": [
+                {
+                  "attribute": {
+                    "localIdentifier": "bd753d2aa1b647a19096c1d636044f3d",
+                    "displayForm": {
+                      "identifier": {
+                        "id": "campaigns.campaign_name",
+                        "type": "label"
+                      }
+                    }
+                  }
+                }
+              ],
+              "localIdentifier": "attribute"
+            }
+          ],
+          "filters": [
+            {
+              "negativeAttributeFilter": {
+                "displayForm": {
+                  "identifier": {
+                    "id": "campaigns.campaign_name",
+                    "type": "label"
+                  }
+                },
+                "notIn": {
+                  "values": [
+
+                  ]
+                }
+              }
+            }
+          ],
+          "ref": {
+            "uri": "http://localhost:3000/api/entities/workspaces/premium_master/visualizationObjects/7dde203c-ce43-4d2e-bb47-134de2e52352"
+          },
+          "identifier": "7dde203c-ce43-4d2e-bb47-134de2e52352",
+          "properties": {
+            "sortItems": [
+              {
+                "attributeSortItem": {
+                  "attributeIdentifier": "bd753d2aa1b647a19096c1d636044f3d",
+                  "direction": "asc"
+                }
+              }
+            ]
+          },
+          "sorts": [
+            {
+              "attributeSortItem": {
+                "attributeIdentifier": "bd753d2aa1b647a19096c1d636044f3d",
+                "direction": "asc"
+              }
+            }
+          ],
+          "uri": "http://localhost:3000/api/entities/workspaces/premium_master/visualizationObjects/7dde203c-ce43-4d2e-bb47-134de2e52352",
+          "visualizationUrl": "local:table",
+          "isLocked": false,
+          "version": "2"
+        },
+        "description": "Campaign Revenue Detail Breakdown",
+        "id": "7dde203c-ce43-4d2e-bb47-134de2e52352",
+        "title": "Campaign Revenue Detail Breakdown"
+      },
+      {
+        "content": {
+          "buckets": [
+            {
+              "items": [
+                {
+                  "measure": {
+                    "localIdentifier": "30953788706d479990334a361f6ab531",
+                    "definition": {
+                      "measureDefinition": {
+                        "item": {
+                          "identifier": {
+                            "id": "revenue_top10",
+                            "type": "metric"
+                          }
+                        },
+                        "filters": [
+
+                        ]
+                      }
+                    },
+                    "title": "Revenue / Top 10"
+                  }
+                }
+              ],
+              "localIdentifier": "measures"
+            },
+            {
+              "items": [
+                {
+                  "attribute": {
+                    "localIdentifier": "99f2e9fb55a8451b858b89e6d05907bf",
+                    "displayForm": {
+                      "identifier": {
+                        "id": "customers.customer_name",
+                        "type": "label"
+                      }
+                    }
+                  }
+                }
+              ],
+              "localIdentifier": "view"
+            }
+          ],
+          "filters": [
+            {
+              "negativeAttributeFilter": {
+                "displayForm": {
+                  "identifier": {
+                    "id": "customers.customer_name",
+                    "type": "label"
+                  }
+                },
+                "notIn": {
+                  "values": [
+
+                  ]
+                }
+              }
+            }
+          ],
+          "ref": {
+
+          },
+          "properties": {
+
+          },
+          "sorts": [
+
+          ],
+          "visualizationUrl": "local:bar",
+          "isLocked": false,
+          "version": "2"
+        },
+        "description": "Top 10 Customers",
+        "id": "867ef3d5-9245-4926-8ff6-94c978b606b3",
+        "title": "Top 10 Customers"
+      },
+      {
+        "content": {
+          "buckets": [
+            {
+              "items": [
+                {
+                  "measure": {
+                    "localIdentifier": "17c0b88cb6004251ae5b92356c6879c6",
+                    "definition": {
+                      "measureDefinition": {
+                        "item": {
+                          "identifier": {
+                            "id": "revenue",
+                            "type": "metric"
+                          }
+                        },
+                        "filters": [
+
+                        ]
+                      }
+                    },
+                    "title": "Revenue",
+                    "format": "$#,##0"
+                  }
+                }
+              ],
+              "localIdentifier": "measures"
+            }
+          ],
+          "filters": [
+
+          ],
+          "ref": {
+
+          },
+          "properties": {
+
+          },
+          "sorts": [
+
+          ],
+          "visualizationUrl": "local:headline",
+          "isLocked": false,
+          "version": "2"
+        },
+        "description": "Total Revenue",
+        "id": "8d7edbd2-f2b5-4fc5-a864-4eeb55df04b7",
+        "title": "Total Revenue"
+      },
+      {
+        "content": {
+          "buckets": [
+            {
+              "items": [
+                {
+                  "measure": {
+                    "localIdentifier": "caecf5de77844eb691e356a0edbdb489",
+                    "definition": {
+                      "measureDefinition": {
+                        "item": {
+                          "identifier": {
+                            "id": "order_lines.order_id",
+                            "type": "attribute"
+                          }
+                        },
+                        "aggregation": "count",
+                        "filters": [
+
+                        ]
+                      }
+                    },
+                    "title": "Count of Order id",
+                    "format": "#,##0"
+                  }
+                }
+              ],
+              "localIdentifier": "measures"
+            }
+          ],
+          "filters": [
+
+          ],
+          "ref": {
+
+          },
+          "properties": {
+
+          },
+          "sorts": [
+
+          ],
+          "visualizationUrl": "local:headline",
+          "isLocked": false,
+          "version": "2"
+        },
+        "description": "Total Orders",
+        "id": "926f8e88-e4ca-47ea-9172-6e16336c7fd5",
+        "title": "Total Orders"
+      },
+      {
+        "content": {
+          "buckets": [
+            {
+              "items": [
+                {
+                  "measure": {
+                    "localIdentifier": "b5cf9bbe11a84cff9f1ae7e64e928398",
+                    "definition": {
+                      "measureDefinition": {
+                        "item": {
+                          "identifier": {
+                            "id": "order_lines.quantity",
+                            "type": "fact"
+                          }
+                        },
+                        "aggregation": "sum",
+                        "filters": [
+
+                        ]
+                      }
+                    },
+                    "title": "Sum of Quantity",
+                    "alias": "Items Sold",
+                    "format": "#,##0"
+                  }
+                },
+                {
+                  "measure": {
+                    "localIdentifier": "a66e3db79e3c42e28c0bf60929d6e904",
+                    "definition": {
+                      "measureDefinition": {
+                        "item": {
+                          "identifier": {
+                            "id": "order_lines.price",
+                            "type": "fact"
+                          }
+                        },
+                        "aggregation": "avg",
+                        "filters": [
+
+                        ]
+                      }
+                    },
+                    "title": "Avg Price",
+                    "format": "$#,##0.00"
+                  }
+                },
+                {
+                  "measure": {
+                    "localIdentifier": "2b0d7fb1351e48a38974df5a3c9a6974",
+                    "definition": {
+                      "measureDefinition": {
+                        "item": {
+                          "identifier": {
+                            "id": "pct_revenue_category",
+                            "type": "metric"
+                          }
+                        },
+                        "filters": [
+
+                        ]
+                      }
+                    },
+                    "title": "% Revenue in Category"
+                  }
+                },
+                {
+                  "measure": {
+                    "localIdentifier": "915def97ec23420384b30883f3ab5622",
+                    "definition": {
+                      "measureDefinition": {
+                        "item": {
+                          "identifier": {
+                            "id": "pct_revenue",
+                            "type": "metric"
+                          }
+                        },
+                        "filters": [
+
+                        ]
+                      }
+                    },
+                    "title": "% Revenue"
+                  }
+                },
+                {
+                  "measure": {
+                    "localIdentifier": "71633bdbbced49559cfdd9b80be5e5e0",
+                    "definition": {
+                      "measureDefinition": {
+                        "item": {
+                          "identifier": {
+                            "id": "revenue",
+                            "type": "metric"
+                          }
+                        },
+                        "filters": [
+
+                        ]
+                      }
+                    },
+                    "title": "Revenue"
+                  }
+                }
+              ],
+              "localIdentifier": "measures"
+            },
+            {
+              "items": [
+                {
+                  "attribute": {
+                    "localIdentifier": "5cbd892a206a4a5a985b0f1acf89b013",
+                    "displayForm": {
+                      "identifier": {
+                        "id": "products.product_category",
+                        "type": "label"
+                      }
+                    }
+                  }
+                },
+                {
+                  "attribute": {
+                    "localIdentifier": "5530baf6ea4045c4b855c5a80bd68851",
+                    "displayForm": {
+                      "identifier": {
+                        "id": "products.product_name",
+                        "type": "label"
+                      }
+                    }
+                  }
+                }
+              ],
+              "localIdentifier": "attribute"
+            }
+          ],
+          "filters": [
+
+          ],
+          "ref": {
+
+          },
+          "properties": {
+            "sortItems": [
+              {
+                "attributeSortItem": {
+                  "attributeIdentifier": "5cbd892a206a4a5a985b0f1acf89b013",
+                  "direction": "asc"
+                }
+              }
+            ]
+          },
+          "sorts": [
+            {
+              "attributeSortItem": {
+                "attributeIdentifier": "5cbd892a206a4a5a985b0f1acf89b013",
+                "direction": "asc"
+              }
+            }
+          ],
+          "visualizationUrl": "local:table",
+          "isLocked": false,
+          "version": "2"
+        },
+        "description": "Revenue and Quantity by Product and Category",
+        "id": "9bd0b5fb-60d3-4a62-8135-68d70fce4f82",
+        "title": "Revenue and Quantity by Product and Category"
+      },
+      {
+        "content": {
+          "buckets": [
+            {
+              "items": [
+                {
+                  "measure": {
+                    "localIdentifier": "f2b5733edcdd420c9d4bdbfe984b7740",
+                    "definition": {
+                      "measureDefinition": {
+                        "item": {
+                          "identifier": {
+                            "id": "revenue_home",
+                            "type": "metric"
+                          }
+                        },
+                        "filters": [
+
+                        ]
+                      }
+                    },
+                    "title": "Revenue (Home)"
+                  }
+                }
+              ],
+              "localIdentifier": "measures"
+            }
+          ],
+          "filters": [
+
+          ],
+          "ref": {
+
+          },
+          "properties": {
+
+          },
+          "sorts": [
+
+          ],
+          "visualizationUrl": "local:headline",
+          "isLocked": false,
+          "version": "2"
+        },
+        "description": "Home",
+        "id": "a2c05ba0-a108-4e2a-96ff-af4611fe99ad",
+        "title": "Home"
+      },
+      {
+        "content": {
+          "buckets": [
+            {
+              "items": [
+                {
+                  "measure": {
+                    "localIdentifier": "34cd58c7a2d4410e8c05c1b10b705edc",
+                    "definition": {
+                      "measureDefinition": {
+                        "item": {
+                          "identifier": {
+                            "id": "active_customers",
+                            "type": "metric"
+                          }
+                        },
+                        "filters": [
+
+                        ]
+                      }
+                    },
+                    "title": "# of Active Customers"
+                  }
+                }
+              ],
+              "localIdentifier": "measures"
+            },
+            {
+              "items": [
+                {
+                  "measure": {
+                    "localIdentifier": "a43689c793004a249944ee7c11085a6f",
+                    "definition": {
+                      "measureDefinition": {
+                        "item": {
+                          "identifier": {
+                            "id": "revenue_per_customer",
+                            "type": "metric"
+                          }
+                        },
+                        "filters": [
+
+                        ]
+                      }
+                    },
+                    "title": "Revenue per Customer"
+                  }
+                }
+              ],
+              "localIdentifier": "secondary_measures"
+            },
+            {
+              "items": [
+                {
+                  "attribute": {
+                    "localIdentifier": "5044c30380aa420fbcd6ed71d08ccac8",
+                    "displayForm": {
+                      "identifier": {
+                        "id": "date.month",
+                        "type": "label"
+                      }
+                    }
+                  }
+                }
+              ],
+              "localIdentifier": "view"
+            }
+          ],
+          "filters": [
+
+          ],
+          "ref": {
+
+          },
+          "properties": {
+            "controls": {
+              "dualAxis": true,
+              "primaryChartType": "column",
+              "secondaryChartType": "line",
+              "secondary_yaxis": {
+                "measures": [
+                  "a43689c793004a249944ee7c11085a6f"
+                ]
+              }
+            }
+          },
+          "sorts": [
+
+          ],
+          "visualizationUrl": "local:combo2",
+          "isLocked": false,
+          "version": "2"
+        },
+        "description": "Customers Trend",
+        "id": "a8ecbfa3-8190-448b-9d73-480bc38391c8",
+        "title": "Customers Trend"
+      },
+      {
+        "content": {
+          "buckets": [
+            {
+              "items": [
+                {
+                  "measure": {
+                    "localIdentifier": "567e0a04568b416bab7285c74b71bd5b",
+                    "definition": {
+                      "measureDefinition": {
+                        "item": {
+                          "identifier": {
+                            "id": "active_customers",
+                            "type": "metric"
+                          }
+                        },
+                        "filters": [
+
+                        ]
+                      }
+                    },
+                    "title": "# of Active Customers"
+                  }
+                }
+              ],
+              "localIdentifier": "measures"
+            }
+          ],
+          "filters": [
+
+          ],
+          "ref": {
+
+          },
+          "properties": {
+
+          },
+          "sorts": [
+
+          ],
+          "visualizationUrl": "local:headline",
+          "isLocked": false,
+          "version": "2"
+        },
+        "description": "# of Active Customers",
+        "id": "aa86d936-9394-4e19-8268-4d1286c707ea",
+        "title": "# of Active Customers"
+      },
+      {
+        "content": {
+          "buckets": [
+            {
+              "items": [
+                {
+                  "measure": {
+                    "localIdentifier": "2f0d6eb87e154e79a04c42b233861ef7",
+                    "definition": {
+                      "measureDefinition": {
+                        "item": {
+                          "identifier": {
+                            "id": "revenue_top10",
+                            "type": "metric"
+                          }
+                        },
+                        "filters": [
+
+                        ]
+                      }
+                    },
+                    "title": "Revenue / Top 10"
+                  }
+                }
+              ],
+              "localIdentifier": "measures"
+            },
+            {
+              "items": [
+                {
+                  "attribute": {
+                    "localIdentifier": "60428c293f444a7b98790e121296aafc",
+                    "displayForm": {
+                      "identifier": {
+                        "id": "products.product_name",
+                        "type": "label"
+                      }
+                    }
+                  }
+                }
+              ],
+              "localIdentifier": "view"
+            },
+            {
+              "items": [
+                {
+                  "attribute": {
+                    "localIdentifier": "d20c0930477b4643a825b5a8a49831d8",
+                    "displayForm": {
+                      "identifier": {
+                        "id": "products.product_category",
+                        "type": "label"
+                      }
+                    }
+                  }
+                }
+              ],
+              "localIdentifier": "stack"
+            }
+          ],
+          "filters": [
+            {
+              "negativeAttributeFilter": {
+                "displayForm": {
+                  "identifier": {
+                    "id": "products.product_name",
+                    "type": "label"
+                  }
+                },
+                "notIn": {
+                  "values": [
+
+                  ]
+                }
+              }
+            },
+            {
+              "negativeAttributeFilter": {
+                "displayForm": {
+                  "identifier": {
+                    "id": "products.product_category",
+                    "type": "label"
+                  }
+                },
+                "notIn": {
+                  "values": [
+
+                  ]
+                }
+              }
+            }
+          ],
+          "ref": {
+
+          },
+          "properties": {
+
+          },
+          "sorts": [
+
+          ],
+          "visualizationUrl": "local:bar",
+          "isLocked": false,
+          "version": "2"
+        },
+        "description": "Top 10 Products",
+        "id": "b35d808c-dccf-44b8-9367-91fe230dbb58",
+        "title": "Top 10 Products"
+      },
+      {
+        "content": {
+          "buckets": [
+            {
+              "items": [
+                {
+                  "measure": {
+                    "localIdentifier": "36d8c38ef0d44e40b114acb5eaa443c6",
+                    "definition": {
+                      "measureDefinition": {
+                        "item": {
+                          "identifier": {
+                            "id": "revenue",
+                            "type": "metric"
+                          }
+                        },
+                        "filters": [
+
+                        ]
+                      }
+                    },
+                    "title": "Revenue"
+                  }
+                }
+              ],
+              "localIdentifier": "measures"
+            },
+            {
+              "items": [
+                {
+                  "attribute": {
+                    "localIdentifier": "6f8b9d27b5b941028a3aef00545186fa",
+                    "displayForm": {
+                      "identifier": {
+                        "id": "date.month",
+                        "type": "label"
+                      }
+                    }
+                  }
+                }
+              ],
+              "localIdentifier": "trend"
+            },
+            {
+              "items": [
+                {
+                  "attribute": {
+                    "localIdentifier": "86448dfad9504ecaa41e85a1d99d8fde",
+                    "displayForm": {
+                      "identifier": {
+                        "id": "products.product_category",
+                        "type": "label"
+                      }
+                    }
+                  }
+                }
+              ],
+              "localIdentifier": "segment"
+            }
+          ],
+          "filters": [
+            {
+              "relativeDateFilter": {
+                "dataSet": {
+                  "identifier": {
+                    "id": "date",
+                    "type": "dataset"
+                  }
+                },
+                "granularity": "GDC.time.year"
+              }
+            },
+            {
+              "negativeAttributeFilter": {
+                "displayForm": {
+                  "identifier": {
+                    "id": "products.product_category",
+                    "type": "label"
+                  }
+                },
+                "notIn": {
+                  "values": [
+
+                  ]
+                }
+              }
+            }
+          ],
+          "ref": {
+
+          },
+          "properties": {
+            "controls": {
+              "legend": {
+                "position": "bottom"
+              }
+            }
+          },
+          "sorts": [
+
+          ],
+          "visualizationUrl": "local:line",
+          "isLocked": false,
+          "version": "2"
+        },
+        "description": "Revenue by Category Trend",
+        "id": "b48287bf-b2ff-4afc-81c8-09032cfa763f",
+        "title": "Revenue by Category Trend"
+      },
+      {
+        "content": {
+          "buckets": [
+            {
+              "items": [
+                {
+                  "measure": {
+                    "localIdentifier": "ea65f5dcfed04661974504db03d7ac85",
+                    "definition": {
+                      "measureDefinition": {
+                        "item": {
+                          "identifier": {
+                            "id": "campaign_spend",
+                            "type": "metric"
+                          }
+                        },
+                        "filters": [
+
+                        ]
+                      }
+                    },
+                    "title": "Campaign Spend"
+                  }
+                }
+              ],
+              "localIdentifier": "measures"
+            },
+            {
+              "items": [
+                {
+                  "measure": {
+                    "localIdentifier": "3bff0d4253b24fdfa6304416690bd5bf",
+                    "definition": {
+                      "measureDefinition": {
+                        "item": {
+                          "identifier": {
+                            "id": "revenue_per_dollar",
+                            "type": "metric"
+                          }
+                        },
+                        "filters": [
+
+                        ]
+                      }
+                    },
+                    "title": "Revenue per Dollar Spend"
+                  }
+                }
+              ],
+              "localIdentifier": "secondary_measures"
+            },
+            {
+              "items": [
+                {
+                  "attribute": {
+                    "localIdentifier": "a93709ef62b74704bfcf46126058fe55",
+                    "displayForm": {
+                      "identifier": {
+                        "id": "campaigns.campaign_name",
+                        "type": "label"
+                      }
+                    }
+                  }
+                }
+              ],
+              "localIdentifier": "attribute"
+            }
+          ],
+          "filters": [
+
+          ],
+          "ref": {
+
+          },
+          "properties": {
+
+          },
+          "sorts": [
+
+          ],
+          "visualizationUrl": "local:scatter",
+          "isLocked": false,
+          "version": "2"
+        },
+        "description": "Revenue per $ vs Spend by Campaign",
+        "id": "b8f3c59b-cba1-444d-b1d7-34ad4bbf208a",
+        "title": "Revenue per $ vs Spend by Campaign"
+      },
+      {
+        "content": {
+          "buckets": [
+            {
+              "items": [
+                {
+                  "measure": {
+                    "localIdentifier": "2d12d76855be41e984687916c8b859d7_pop",
+                    "definition": {
+                      "popMeasureDefinition": {
+                        "measureIdentifier": "2d12d76855be41e984687916c8b859d7",
+                        "popAttribute": {
+                          "identifier": {
+                            "id": "date.year",
+                            "type": "attribute"
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "measure": {
+                    "localIdentifier": "2d12d76855be41e984687916c8b859d7",
+                    "definition": {
+                      "measureDefinition": {
+                        "item": {
+                          "identifier": {
+                            "id": "revenue",
+                            "type": "metric"
+                          }
+                        },
+                        "filters": [
+
+                        ]
+                      }
+                    },
+                    "title": "Revenue",
+                    "format": "#,##0.00"
+                  }
+                }
+              ],
+              "localIdentifier": "measures"
+            },
+            {
+              "items": [
+                {
+                  "attribute": {
+                    "localIdentifier": "4051f9e170b34c87ac5d5366c358a49d",
+                    "displayForm": {
+                      "identifier": {
+                        "id": "products.product_category",
+                        "type": "label"
+                      }
+                    }
+                  }
+                }
+              ],
+              "localIdentifier": "view"
+            }
+          ],
+          "filters": [
+            {
+              "relativeDateFilter": {
+                "dataSet": {
+                  "identifier": {
+                    "id": "date",
+                    "type": "dataset"
+                  }
+                },
+                "granularity": "GDC.time.month",
+                "from": -11,
+                "to": 0
+              }
+            }
+          ],
+          "ref": {
+
+          },
+          "properties": {
+            "controls": {
+              "dataLabels": {
+                "visible": true
+              }
+            }
+          },
+          "sorts": [
+
+          ],
+          "visualizationUrl": "local:column",
+          "isLocked": false,
+          "version": "2"
+        },
+        "description": "Product Revenue Comparison (over previous period)",
+        "id": "bc41cbdf-6496-4f53-9741-803f36f0dbdf",
+        "title": "Product Revenue Comparison (over previous period)"
+      },
+      {
+        "content": {
+          "buckets": [
+            {
+              "items": [
+                {
+                  "measure": {
+                    "localIdentifier": "9b0b12ec6379400ba4ff4623e8171420",
+                    "definition": {
+                      "measureDefinition": {
+                        "item": {
+                          "identifier": {
+                            "id": "num_orders",
+                            "type": "metric"
+                          }
+                        },
+                        "filters": [
+
+                        ]
+                      }
+                    },
+                    "title": "# of Orders"
+                  }
+                }
+              ],
+              "localIdentifier": "measures"
+            },
+            {
+              "items": [
+                {
+                  "measure": {
+                    "localIdentifier": "74e7a7a6122044199943fb08977802c5",
+                    "definition": {
+                      "measureDefinition": {
+                        "item": {
+                          "identifier": {
+                            "id": "revenue",
+                            "type": "metric"
+                          }
+                        },
+                        "filters": [
+
+                        ]
+                      }
+                    },
+                    "title": "Revenue"
+                  }
+                }
+              ],
+              "localIdentifier": "secondary_measures"
+            },
+            {
+              "items": [
+                {
+                  "attribute": {
+                    "localIdentifier": "c87db234164d4643b38079a163d7910b",
+                    "displayForm": {
+                      "identifier": {
+                        "id": "products.product_name",
+                        "type": "label"
+                      }
+                    }
+                  }
+                }
+              ],
+              "localIdentifier": "attribute"
+            }
+          ],
+          "filters": [
+            {
+              "negativeAttributeFilter": {
+                "displayForm": {
+                  "identifier": {
+                    "id": "products.product_name",
+                    "type": "label"
+                  }
+                },
+                "notIn": {
+                  "values": [
+
+                  ]
+                }
+              }
+            }
+          ],
+          "ref": {
+
+          },
+          "properties": {
+            "controls": {
+              "dataLabels": {
+                "visible": true
+              }
+            }
+          },
+          "sorts": [
+
+          ],
+          "visualizationUrl": "local:scatter",
+          "isLocked": false,
+          "version": "2"
+        },
+        "description": "Product Saleability",
+        "id": "cb4a4732-0c4f-4da8-86ea-ba4f5fc19e0b",
+        "title": "Product Saleability"
+      },
+      {
+        "content": {
+          "buckets": [
+            {
+              "items": [
+                {
+                  "measure": {
+                    "localIdentifier": "08f6c0a474594375bd522d32ff8d32ef",
+                    "definition": {
+                      "measureDefinition": {
+                        "item": {
+                          "identifier": {
+                            "id": "pct_revenue",
+                            "type": "metric"
+                          }
+                        },
+                        "filters": [
+
+                        ]
+                      }
+                    },
+                    "title": "% Revenue"
+                  }
+                }
+              ],
+              "localIdentifier": "measures"
+            },
+            {
+              "items": [
+                {
+                  "attribute": {
+                    "localIdentifier": "32fb3c9c3bc0430392e2f400ab3a8319",
+                    "displayForm": {
+                      "identifier": {
+                        "id": "products.product_category",
+                        "type": "label"
+                      }
+                    }
+                  }
+                }
+              ],
+              "localIdentifier": "view"
+            }
+          ],
+          "filters": [
+            {
+              "negativeAttributeFilter": {
+                "displayForm": {
+                  "identifier": {
+                    "id": "products.product_name",
+                    "type": "label"
+                  }
+                },
+                "notIn": {
+                  "values": [
+
+                  ]
+                }
+              }
+            },
+            {
+              "negativeAttributeFilter": {
+                "displayForm": {
+                  "identifier": {
+                    "id": "products.product_category",
+                    "type": "label"
+                  }
+                },
+                "notIn": {
+                  "values": [
+
+                  ]
+                }
+              }
+            }
+          ],
+          "ref": {
+
+          },
+          "properties": {
+            "controls": {
+              "dataLabels": {
+                "visible": "auto"
+              }
+            }
+          },
+          "sorts": [
+
+          ],
+          "visualizationUrl": "local:donut",
+          "isLocked": false,
+          "version": "2"
+        },
+        "description": "Product Categories Pie Chart",
+        "id": "e8d2d3ff-7b0a-414f-a9d9-89bd669a5a6b",
+        "title": "Product Categories Pie Chart"
+      }
+    ]
+  },
+  "ldm": {
+    "datasets": [
+      {
+        "attributes": [
+          {
+            "description": "Campaign channel id",
+            "id": "campaign_channels.campaign_channel_id",
+            "labels": [
+              {
+                "description": "Campaign channel id",
+                "id": "campaign_channels.campaign_channel_id",
+                "primary": true,
+                "sourceColumn": "campaign_channel_id",
+                "tags": [
+                  "Campaign channels"
+                ],
+                "title": "Campaign channel id"
+              }
+            ],
+            "tags": [
+              "Campaign channels"
+            ],
+            "title": "Campaign channel id"
+          },
+          {
+            "description": "Campaign channels key",
+            "id": "campaign_channels.campaign_channels_key",
+            "labels": [
+              {
+                "description": "Campaign channels key",
+                "id": "campaign_channels.campaign_channels_key",
+                "primary": true,
+                "sourceColumn": "campaign_channels_key",
+                "tags": [
+                  "Campaign channels"
+                ],
+                "title": "Campaign channels key"
+              }
+            ],
+            "tags": [
+              "Campaign channels"
+            ],
+            "title": "Campaign channels key"
+          },
+          {
+            "description": "Category",
+            "id": "campaign_channels.category",
+            "labels": [
+              {
+                "description": "Category",
+                "id": "campaign_channels.category",
+                "primary": true,
+                "sourceColumn": "category",
+                "tags": [
+                  "Campaign channels"
+                ],
+                "title": "Category"
+              }
+            ],
+            "tags": [
+              "Campaign channels"
+            ],
+            "title": "Category"
+          },
+          {
+            "description": "Type",
+            "id": "campaign_channels.type",
+            "labels": [
+              {
+                "description": "Type",
+                "id": "campaign_channels.type",
+                "primary": true,
+                "sourceColumn": "type",
+                "tags": [
+                  "Campaign channels"
+                ],
+                "title": "Type"
+              }
+            ],
+            "tags": [
+              "Campaign channels"
+            ],
+            "title": "Type"
+          }
+        ],
+        "dataSourceTableId": {
+          "dataSourceId": "client-ds",
+          "id": "campaign_channels",
+          "type": "dataSource"
+        },
+        "description": "",
+        "facts": [
+          {
+            "description": "Budget",
+            "id": "campaign_channels.budget",
+            "sourceColumn": "budget",
+            "tags": [
+              "Campaign channels"
+            ],
+            "title": "Budget"
+          },
+          {
+            "description": "Spend",
+            "id": "campaign_channels.spend",
+            "sourceColumn": "spend",
+            "tags": [
+              "Campaign channels"
+            ],
+            "title": "Spend"
+          }
+        ],
+        "grain": [
+          {
+            "id": "campaign_channels.campaign_channels_key",
+            "type": "attribute"
+          }
+        ],
+        "id": "campaign_channels",
+        "references": [
+          {
+            "identifier": {
+              "id": "campaigns",
+              "type": "dataset"
+            },
+            "multivalue": false,
+            "sourceColumns": [
+              "campaign_id"
+            ]
+          }
+        ],
+        "tags": [
+          "Campaign channels"
+        ],
+        "title": "Campaign channels"
+      },
+      {
+        "attributes": [
+          {
+            "description": "Campaign id",
+            "id": "campaigns.campaign_id",
+            "labels": [
+              {
+                "description": "Campaign id",
+                "id": "campaigns.campaign_id",
+                "primary": true,
+                "sourceColumn": "campaign_id",
+                "tags": [
+                  "Campaigns"
+                ],
+                "title": "Campaign id"
+              }
+            ],
+            "tags": [
+              "Campaigns"
+            ],
+            "title": "Campaign id"
+          },
+          {
+            "description": "Campaign name",
+            "id": "campaigns.campaign_name",
+            "labels": [
+              {
+                "description": "Campaign name",
+                "id": "campaigns.campaign_name",
+                "primary": true,
+                "sourceColumn": "campaign_name",
+                "tags": [
+                  "Campaigns"
+                ],
+                "title": "Campaign name"
+              }
+            ],
+            "tags": [
+              "Campaigns"
+            ],
+            "title": "Campaign name"
+          }
+        ],
+        "dataSourceTableId": {
+          "dataSourceId": "client-ds",
+          "id": "campaigns",
+          "type": "dataSource"
+        },
+        "description": "",
+        "facts": [
+
+        ],
+        "grain": [
+          {
+            "id": "campaigns.campaign_id",
+            "type": "attribute"
+          }
+        ],
+        "id": "campaigns",
+        "references": [
+
+        ],
+        "tags": [
+          "Campaigns"
+        ],
+        "title": "Campaigns"
+      },
+      {
+        "attributes": [
+          {
+            "description": "City",
+            "id": "customers.city",
+            "labels": [
+              {
+                "description": "City",
+                "id": "customers.city",
+                "primary": true,
+                "sourceColumn": "city",
+                "tags": [
+                  "Customers"
+                ],
+                "title": "City"
+              }
+            ],
+            "tags": [
+              "Customers"
+            ],
+            "title": "City"
+          },
+          {
+            "description": "City coordinates",
+            "id": "customers.city_coordinates",
+            "labels": [
+              {
+                "description": "City coordinates",
+                "id": "customers.city_coordinates",
+                "primary": true,
+                "sourceColumn": "city_coordinates",
+                "tags": [
+                  "Customers"
+                ],
+                "title": "City coordinates"
+              }
+            ],
+            "tags": [
+              "Customers"
+            ],
+            "title": "City coordinates"
+          },
+          {
+            "description": "Customer id",
+            "id": "customers.customer_id",
+            "labels": [
+              {
+                "description": "Customer id",
+                "id": "customers.customer_id",
+                "primary": true,
+                "sourceColumn": "customer_id",
+                "tags": [
+                  "Customers"
+                ],
+                "title": "Customer id"
+              }
+            ],
+            "tags": [
+              "Customers"
+            ],
+            "title": "Customer id"
+          },
+          {
+            "description": "Customer name",
+            "id": "customers.customer_name",
+            "labels": [
+              {
+                "description": "Customer name",
+                "id": "customers.customer_name",
+                "primary": true,
+                "sourceColumn": "customer_name",
+                "tags": [
+                  "Customers"
+                ],
+                "title": "Customer name"
+              }
+            ],
+            "tags": [
+              "Customers"
+            ],
+            "title": "Customer name"
+          },
+          {
+            "description": "Region",
+            "id": "customers.region",
+            "labels": [
+              {
+                "description": "Region",
+                "id": "customers.region",
+                "primary": true,
+                "sourceColumn": "region",
+                "tags": [
+                  "Customers"
+                ],
+                "title": "Region"
+              }
+            ],
+            "tags": [
+              "Customers"
+            ],
+            "title": "Region"
+          },
+          {
+            "description": "State",
+            "id": "customers.state",
+            "labels": [
+              {
+                "description": "State",
+                "id": "customers.state",
+                "primary": true,
+                "sourceColumn": "state",
+                "tags": [
+                  "Customers"
+                ],
+                "title": "State"
+              }
+            ],
+            "tags": [
+              "Customers"
+            ],
+            "title": "State"
+          }
+        ],
+        "dataSourceTableId": {
+          "dataSourceId": "client-ds",
+          "id": "customers",
+          "type": "dataSource"
+        },
+        "description": "",
+        "facts": [
+
+        ],
+        "grain": [
+          {
+            "id": "customers.customer_id",
+            "type": "attribute"
+          }
+        ],
+        "id": "customers",
+        "references": [
+
+        ],
+        "tags": [
+          "Customers"
+        ],
+        "title": "Customers"
+      },
+      {
+        "attributes": [
+          {
+            "description": "Order id",
+            "id": "order_lines.order_id",
+            "labels": [
+              {
+                "description": "Order id",
+                "id": "order_lines.order_id",
+                "primary": true,
+                "sourceColumn": "order_id",
+                "tags": [
+                  "Order lines"
+                ],
+                "title": "Order id"
+              }
+            ],
+            "tags": [
+              "Order lines"
+            ],
+            "title": "Order id"
+          },
+          {
+            "description": "Order line id",
+            "id": "order_lines.order_line_id",
+            "labels": [
+              {
+                "description": "Order line id",
+                "id": "order_lines.order_line_id",
+                "primary": true,
+                "sourceColumn": "order_line_id",
+                "tags": [
+                  "Order lines"
+                ],
+                "title": "Order line id"
+              }
+            ],
+            "tags": [
+              "Order lines"
+            ],
+            "title": "Order line id"
+          },
+          {
+            "description": "Order status",
+            "id": "order_lines.order_status",
+            "labels": [
+              {
+                "description": "Order status",
+                "id": "order_lines.order_status",
+                "primary": true,
+                "sourceColumn": "order_status",
+                "tags": [
+                  "Order lines"
+                ],
+                "title": "Order status"
+              }
+            ],
+            "tags": [
+              "Order lines"
+            ],
+            "title": "Order status"
+          }
+        ],
+        "dataSourceTableId": {
+          "dataSourceId": "client-ds",
+          "id": "order_lines",
+          "type": "dataSource"
+        },
+        "description": "",
+        "facts": [
+          {
+            "description": "Price",
+            "id": "order_lines.price",
+            "sourceColumn": "price",
+            "tags": [
+              "Order lines"
+            ],
+            "title": "Price"
+          },
+          {
+            "description": "Quantity",
+            "id": "order_lines.quantity",
+            "sourceColumn": "quantity",
+            "tags": [
+              "Order lines"
+            ],
+            "title": "Quantity"
+          }
+        ],
+        "grain": [
+          {
+            "id": "order_lines.order_line_id",
+            "type": "attribute"
+          }
+        ],
+        "id": "order_lines",
+        "references": [
+          {
+            "identifier": {
+              "id": "campaigns",
+              "type": "dataset"
+            },
+            "multivalue": false,
+            "sourceColumns": [
+              "campaign_id"
+            ]
+          },
+          {
+            "identifier": {
+              "id": "customers",
+              "type": "dataset"
+            },
+            "multivalue": false,
+            "sourceColumns": [
+              "customer_id"
+            ]
+          },
+          {
+            "identifier": {
+              "id": "date",
+              "type": "dataset"
+            },
+            "multivalue": false,
+            "sourceColumns": [
+              "date"
+            ]
+          },
+          {
+            "identifier": {
+              "id": "products",
+              "type": "dataset"
+            },
+            "multivalue": false,
+            "sourceColumns": [
+              "product_id"
+            ]
+          },
+          {
+            "identifier": {
+              "id": "ship_date",
+              "type": "dataset"
+            },
+            "multivalue": false,
+            "sourceColumns": [
+              "ship_date"
+            ]
+          }
+        ],
+        "tags": [
+          "Order lines"
+        ],
+        "title": "Order lines"
+      },
+      {
+        "attributes": [
+          {
+            "description": "Category",
+            "id": "products.product_category",
+            "labels": [
+              {
+                "description": "Category",
+                "id": "products.product_category",
+                "primary": true,
+                "sourceColumn": "product_category",
+                "tags": [
+                  "Products"
+                ],
+                "title": "Product Category"
+              }
+            ],
+            "tags": [
+              "Products"
+            ],
+            "title": "Product Category"
+          },
+          {
+            "description": "Product id",
+            "id": "products.product_id",
+            "labels": [
+              {
+                "description": "Product id",
+                "id": "products.product_id",
+                "primary": true,
+                "sourceColumn": "product_id",
+                "tags": [
+                  "Products"
+                ],
+                "title": "Product id"
+              }
+            ],
+            "tags": [
+              "Products"
+            ],
+            "title": "Product id"
+          },
+          {
+            "description": "Product name",
+            "id": "products.product_name",
+            "labels": [
+              {
+                "description": "Product name",
+                "id": "products.product_name",
+                "primary": true,
+                "sourceColumn": "product_name",
+                "tags": [
+                  "Products"
+                ],
+                "title": "Product name"
+              }
+            ],
+            "tags": [
+              "Products"
+            ],
+            "title": "Product name"
+          }
+        ],
+        "dataSourceTableId": {
+          "dataSourceId": "client-ds",
+          "id": "products",
+          "type": "dataSource"
+        },
+        "description": "",
+        "facts": [
+
+        ],
+        "grain": [
+          {
+            "id": "products.product_id",
+            "type": "attribute"
+          }
+        ],
+        "id": "products",
+        "references": [
+
+        ],
+        "tags": [
+          "Products"
+        ],
+        "title": "Products"
+      }
+    ],
+    "dateInstances": [
+      {
+        "description": "",
+        "granularities": [
+          "MINUTE",
+          "HOUR",
+          "DAY",
+          "WEEK",
+          "MONTH",
+          "QUARTER",
+          "YEAR",
+          "MINUTE_OF_HOUR",
+          "HOUR_OF_DAY",
+          "DAY_OF_WEEK",
+          "DAY_OF_MONTH",
+          "DAY_OF_YEAR",
+          "WEEK_OF_YEAR",
+          "MONTH_OF_YEAR",
+          "QUARTER_OF_YEAR"
+        ],
+        "granularitiesFormatting": {
+          "titleBase": "",
+          "titlePattern": "%titleBase - %granularityTitle"
+        },
+        "id": "date",
+        "tags": [
+          "Date"
+        ],
+        "title": "Date"
+      },
+      {
+        "description": "",
+        "granularities": [
+          "MINUTE",
+          "HOUR",
+          "DAY",
+          "WEEK",
+          "MONTH",
+          "QUARTER",
+          "YEAR",
+          "MINUTE_OF_HOUR",
+          "HOUR_OF_DAY",
+          "DAY_OF_WEEK",
+          "DAY_OF_MONTH",
+          "DAY_OF_YEAR",
+          "WEEK_OF_YEAR",
+          "MONTH_OF_YEAR",
+          "QUARTER_OF_YEAR"
+        ],
+        "granularitiesFormatting": {
+          "titleBase": "",
+          "titlePattern": "%titleBase - %granularityTitle"
+        },
+        "id": "ship_date",
+        "tags": [
+          "Ship date"
+        ],
+        "title": "Ship date"
+      }
+    ]
+  }
+}
